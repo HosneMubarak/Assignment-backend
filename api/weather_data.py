@@ -1,0 +1,28 @@
+data_1 = {"coord": {"lon": 90.4074, "lat": 23.7104},
+          "weather": [{"id": 721, "main": "Haze", "description": "haze", "icon": "50n"}], "base": "stations",
+          "main": {"temp": 295.14, "feels_like": 295.17, "temp_min": 295.14, "temp_max": 295.14, "pressure": 1016,
+                   "humidity": 68}, "visibility": 3500, "wind": {"speed": 0, "deg": 0}, "clouds": {"all": 75},
+          "dt": 1639169396,
+          "sys": {"type": 1, "id": 9145, "country": "BD", "sunrise": 1639182638, "sunset": 1639221163},
+          "timezone": 21600, "id": 1185241, "name": "Dhaka", "cod": 200}
+data_2 = {"coord": {"lon": 91.5, "lat": 22.9167},
+          "weather": [{"id": 800, "main": "Clear", "description": "clear sky", "icon": "01n"}], "base": "stations",
+          "main": {"temp": 291.37, "feels_like": 291.21, "temp_min": 291.37, "temp_max": 291.37, "pressure": 1015,
+                   "humidity": 75, "sea_level": 1015, "grnd_level": 1014}, "visibility": 10000,
+          "wind": {"speed": 2.93, "deg": 30, "gust": 4.43}, "clouds": {"all": 0}, "dt": 1639174742,
+          "sys": {"country": "BD", "sunrise": 1639182280, "sunset": 1639220996}, "timezone": 21600, "id": 1337200,
+          "name": "Chittagong", "cod": 200}
+data_3 = {"coord": {"lon": 90.4074, "lat": 23.7104},
+          "weather": [{"id": 721, "main": "Haze", "description": "haze", "icon": "50n"}], "base": "stations",
+          "main": {"temp": 295.14, "feels_like": 295.17, "temp_min": 295.14, "temp_max": 295.14, "pressure": 1016,
+                   "humidity": 68}, "visibility": 3500, "wind": {"speed": 0, "deg": 0}, "clouds": {"all": 75},
+          "dt": 1639169396,
+          "sys": {"type": 1, "id": 9145, "country": "BD", "sunrise": 1639182638, "sunset": 1639221163},
+          "timezone": 21600, "id": 1185241, "name": "Dhaka", "cod": 200}
+data_4 = {"coord": {"lon": 91.5, "lat": 22.9167},
+          "weather": [{"id": 800, "main": "Clear", "description": "clear sky", "icon": "01n"}], "base": "stations",
+          "main": {"temp": 291.37, "feels_like": 291.21, "temp_min": 291.37, "temp_max": 291.37, "pressure": 1015,
+                   "humidity": 75, "sea_level": 1015, "grnd_level": 1014}, "visibility": 10000,
+          "wind": {"speed": 2.93, "deg": 30, "gust": 4.43}, "clouds": {"all": 0}, "dt": 1639174742,
+          "sys": {"country": "BD", "sunrise": 1639182280, "sunset": 1639220996}, "timezone": 21600, "id": 1337200,
+          "name": "Dhaka", "cod": 200}

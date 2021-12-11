@@ -1,0 +1,6682 @@
+[
+    {
+        value: "HGH",
+        lavel: "Hangzhou Xiaoshan International Airport - Shanghai"
+    },
+    {
+        value: "TAS",
+        lavel: "Yuzhny Airport - Tashkent"
+    },
+    {
+        value: "SVX",
+        lavel: "Koltsovo International Airport - Yekaterinburg"
+    },
+    {
+        value: "AGR",
+        lavel: "Kheria - Kolkata"
+    },
+    {
+        value: "RPA",
+        lavel: "Rolpa - Kathmandu"
+    },
+    {
+        value: "BSM",
+        lavel: "Bishe-kola - Tehran"
+    },
+    {
+        value: "GAV",
+        lavel: "Gag Island - Jayapura"
+    },
+    {
+        value: "AMM",
+        lavel: "Queen Alia International Airport - Amman"
+    },
+    {
+        value: "VVO",
+        lavel: "Vladivostok International Airport - Vladivostok"
+    },
+    {
+        value: "KIJ",
+        lavel: "Niigata Airport - Tokyo"
+    },
+    {
+        value: "PWL",
+        lavel: "Purwokerto - Jakarta"
+    },
+    {
+        value: "DTE",
+        lavel: "Naga - Manila"
+    },
+    {
+        value: "HLP",
+        lavel: "Halim Perdanakusuma Airport - Jakarta"
+    },
+    {
+        value: "VDH",
+        lavel: "Dong Hoi Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "KBL",
+        lavel: "Kabul International Airport - Kabul"
+    },
+    {
+        value: "RUD",
+        lavel: "Shahrud - Tehran"
+    },
+    {
+        value: "NKG",
+        lavel: "Nanjing Lukou International Airport - Shanghai"
+    },
+    {
+        value: "TGP",
+        lavel: "Podkamennaya Tunguska Airport - Krasnoyarsk"
+    },
+    {
+        value: "CRZ",
+        lavel: "Turkmenabad - Ashgabat"
+    },
+    {
+        value: "USJ",
+        lavel: "Usharal - Almaty"
+    },
+    {
+        value: "PHH",
+        lavel: "Phan Thiet - Ho_Chi_Minh"
+    },
+    {
+        value: "AVA",
+        lavel: "An Shun/Huang Guo Shu Airport - Shanghai"
+    },
+    {
+        value: "AOU",
+        lavel: "Attopeu - Vientiane"
+    },
+    {
+        value: "KCT",
+        lavel: "Koggala Airport - Colombo"
+    },
+    {
+        value: "LZH",
+        lavel: "Liuzhou Airport - Shanghai"
+    },
+    {
+        value: "BMV",
+        lavel: "Phung-Duc Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "BHN",
+        lavel: "Beihan - Aden"
+    },
+    {
+        value: "FUO",
+        lavel: "Fuoshan Airport - Shanghai"
+    },
+    {
+        value: "МОМ",
+        lavel: "Moma - Srednekolymsk"
+    },
+    {
+        value: "SCT",
+        lavel: "Socotra - Aden"
+    },
+    {
+        value: "TBB",
+        lavel: "Tuy Hoa Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "TMH",
+        lavel: "Tanahmerah - Jayapura"
+    },
+    {
+        value: "JIC",
+        lavel: "Jinchuan Airport - Shanghai"
+    },
+    {
+        value: "HBU",
+        lavel: "Bulgan, Hovd - Hovd"
+    },
+    {
+        value: "PRH",
+        lavel: "Phrae Airport - Bangkok"
+    },
+    {
+        value: "OMY",
+        lavel: "Oddor Meanche - Phnom_Penh"
+    },
+    {
+        value: "WXN",
+        lavel: "Wanxian Airport - Shanghai"
+    },
+    {
+        value: "IZO",
+        lavel: "Izumo Airport - Tokyo"
+    },
+    {
+        value: "GUW",
+        lavel: "Atyrau Airport - Aqtau"
+    },
+    {
+        value: "WOT",
+        lavel: "Wonan - Taipei"
+    },
+    {
+        value: "IQM",
+        lavel: "Qiemo Airport - Shanghai"
+    },
+    {
+        value: "BPH",
+        lavel: "Bislig - Manila"
+    },
+    {
+        value: "GXF",
+        lavel: "Seiyun - Aden"
+    },
+    {
+        value: "HYD",
+        lavel: "Rajiv Gandhi International Airport - Kolkata"
+    },
+    {
+        value: "PKY",
+        lavel: "Tjilik Riwut Airport - Pontianak"
+    },
+    {
+        value: "SMM",
+        lavel: "Semporna - Kuching"
+    },
+    {
+        value: "DIB",
+        lavel: "Dibrugarh Airport - Kolkata"
+    },
+    {
+        value: "TXM",
+        lavel: "Teminabuan - Jayapura"
+    },
+    {
+        value: "LHW",
+        lavel: "Lanzhou Zhongchuan International Airport - Shanghai"
+    },
+    {
+        value: "SFS",
+        lavel: "Subic Bay International - Manila"
+    },
+    {
+        value: "SPT",
+        lavel: "Sipitang - Kuching"
+    },
+    {
+        value: "KUM",
+        lavel: "Yakushima Airport - Tokyo"
+    },
+    {
+        value: "RML",
+        lavel: "Ratmalana - Colombo"
+    },
+    {
+        value: "IFH",
+        lavel: "Hesa - Tehran"
+    },
+    {
+        value: "URY",
+        lavel: "Gurayat Airport - Riyadh"
+    },
+    {
+        value: "KON",
+        lavel: "Kontum - Ho_Chi_Minh"
+    },
+    {
+        value: "BKS",
+        lavel: "Fatmawati Soekarno Airport - Jakarta"
+    },
+    {
+        value: "REQ",
+        lavel: "Reko Diq - Karachi"
+    },
+    {
+        value: "TNA",
+        lavel: "Jinan Yaoqiang International Airport - Shanghai"
+    },
+    {
+        value: "DAC",
+        lavel: "Hazrat Shahjalal International Airport - Dhaka"
+    },
+    {
+        value: "CAN",
+        lavel: "Guangzhou Baiyun International Airport - Shanghai"
+    },
+    {
+        value: "AZN",
+        lavel: "Andizhan Airport - Tashkent"
+    },
+    {
+        value: "BJT",
+        lavel: "Bentota River - Colombo"
+    },
+    {
+        value: "PBS",
+        lavel: "Patong Beach - Bangkok"
+    },
+    {
+        value: "WDA",
+        lavel: "Wadi Ain - Aden"
+    },
+    {
+        value: "GIZ",
+        lavel: "Jazan Regional Airport - Riyadh"
+    },
+    {
+        value: "NGO",
+        lavel: "Chubu Centrair International Airport - Tokyo"
+    },
+    {
+        value: "URJ",
+        lavel: "Uraj Airport - Yekaterinburg"
+    },
+    {
+        value: "NCP",
+        lavel: "Cubi Pt NAS - Manila"
+    },
+    {
+        value: "BFU",
+        lavel: "Bengbu - Shanghai"
+    },
+    {
+        value: "TLB",
+        lavel: "Tarbela - Karachi"
+    },
+    {
+        value: "VII",
+        lavel: "Vinh Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "XKH",
+        lavel: "Xieng Khouang Airport - Vientiane"
+    },
+    {
+        value: "CLA",
+        lavel: "Comilla - Dhaka"
+    },
+    {
+        value: "BHK",
+        lavel: "Bukhara Airport - Samarkand"
+    },
+    {
+        value: "ULZ",
+        lavel: "Uliastai - Hovd"
+    },
+    {
+        value: "BYB",
+        lavel: "Dibaa - Muscat"
+    },
+    {
+        value: "PKC",
+        lavel: "Petropavlovsk-Kamchatsky Airport - Kamchatka"
+    },
+    {
+        value: "RBE",
+        lavel: "Ratanakiri - Phnom_Penh"
+    },
+    {
+        value: "PCB",
+        lavel: "Pondok Cabe - Jakarta"
+    },
+    {
+        value: "ULH",
+        lavel: "Prince Abdul Majeed bin Abdulaziz Airport - Riyadh"
+    },
+    {
+        value: "KAG",
+        lavel: "Gangneung - Seoul"
+    },
+    {
+        value: "SHM",
+        lavel: "Shirahama Airport - Tokyo"
+    },
+    {
+        value: "KCH",
+        lavel: "Kuching International Airport - Kuching"
+    },
+    {
+        value: "YIH",
+        lavel: "Yichang Sanxia Airport - Shanghai"
+    },
+    {
+        value: "HBX",
+        lavel: "Hubli Airport - Kolkata"
+    },
+    {
+        value: "IAO",
+        lavel: "Sayak (Siargao) - Manila"
+    },
+    {
+        value: "COQ",
+        lavel: "Choibalsan - Choibalsan"
+    },
+    {
+        value: "KZC",
+        lavel: "Kompong-Chhna - Phnom_Penh"
+    },
+    {
+        value: "LNJ",
+        lavel: "Lincang Airport - Shanghai"
+    },
+    {
+        value: "MKW",
+        lavel: "Rendani Airport - Jayapura"
+    },
+    {
+        value: "TMG",
+        lavel: "Tomanggong - Kuching"
+    },
+    {
+        value: "PHY",
+        lavel: "Phetchabun - Bangkok"
+    },
+    {
+        value: "AZD",
+        lavel: "Yazd Airport - Tehran"
+    },
+    {
+        value: "BNP",
+        lavel: "Bannu - Karachi"
+    },
+    {
+        value: "TKN",
+        lavel: "Tokunoshima - Tokyo"
+    },
+    {
+        value: "SFE",
+        lavel: "San Fernando - Manila"
+    },
+    {
+        value: "KRC",
+        lavel: "Kerinci - Jakarta"
+    },
+    {
+        value: "BTK",
+        lavel: "Bratsk Airport - Irkutsk"
+    },
+    {
+        value: "KWJ",
+        lavel: "Gwangju Airport - Seoul"
+    },
+    {
+        value: "BHJ",
+        lavel: "Rudra Mata Airport - Kolkata"
+    },
+    {
+        value: "KTD",
+        lavel: "Kitadaito - Tokyo"
+    },
+    {
+        value: "NJF",
+        lavel: "Al-Najaf International Airport - Baghdad"
+    },
+    {
+        value: "KDW",
+        lavel: "Vic. Resevour Kandy - Colombo"
+    },
+    {
+        value: "HEH",
+        lavel: "Heho Airport - Rangoon"
+    },
+    {
+        value: "MBE",
+        lavel: "Monbetsu Airport - Tokyo"
+    },
+    {
+        value: "JMU",
+        lavel: "Jiamusi Airport - Shanghai"
+    },
+    {
+        value: "JNZ",
+        lavel: "Liaoning Province Airport - Shanghai"
+    },
+    {
+        value: "DUM",
+        lavel: "Pinang Kampai - Jakarta"
+    },
+    {
+        value: "NAM",
+        lavel: "Namlea - Jayapura"
+    },
+    {
+        value: "SJI",
+        lavel: "San Jose - Manila"
+    },
+    {
+        value: "THW",
+        lavel: "Harbour SPB - Colombo"
+    },
+    {
+        value: "SLF",
+        lavel: "Sulayel - Riyadh"
+    },
+    {
+        value: "PBU",
+        lavel: "Putao - Rangoon"
+    },
+    {
+        value: "UTR",
+        lavel: "Uttaradit - Bangkok"
+    },
+    {
+        value: "UEO",
+        lavel: "Kume-jima Airport - Tokyo"
+    },
+    {
+        value: "GYS",
+        lavel: "Guang Yuan Airport - Shanghai"
+    },
+    {
+        value: "TEN",
+        lavel: "Tongren Airport - Shanghai"
+    },
+    {
+        value: "AVK",
+        lavel: "Arvaikheer - Ulaanbaatar"
+    },
+    {
+        value: "KMM",
+        lavel: "Kimam - Jayapura"
+    },
+    {
+        value: "OSW",
+        lavel: "Orsk Airport - Yekaterinburg"
+    },
+    {
+        value: "MUX",
+        lavel: "Multan Airport - Karachi"
+    },
+    {
+        value: "AYW",
+        lavel: "Ayawasi - Jayapura"
+    },
+    {
+        value: "CIH",
+        lavel: "Changzhi Airport - Shanghai"
+    },
+    {
+        value: "JDH",
+        lavel: "Jodhpur Airport - Kolkata"
+    },
+    {
+        value: "IXD",
+        lavel: "Bamrauli Airport - Kolkata"
+    },
+    {
+        value: "МКО",
+        lavel: "Markovo - Anadyr"
+    },
+    {
+        value: "NUJ",
+        lavel: "Nojeh - Tehran"
+    },
+    {
+        value: "ISU",
+        lavel: "Sulaimaniyah International Airport - Baghdad"
+    },
+    {
+        value: "KPO",
+        lavel: "Pohang Airport - Seoul"
+    },
+    {
+        value: "UDR",
+        lavel: "Maharana Pratap Airport - Kolkata"
+    },
+    {
+        value: "KRY",
+        lavel: "Karamay Airport - Shanghai"
+    },
+    {
+        value: "XIC",
+        lavel: "Xichang Airport - Shanghai"
+    },
+    {
+        value: "KSQ",
+        lavel: "Karshi Airport - Samarkand"
+    },
+    {
+        value: "TJJ",
+        lavel: "Tianjin Bus Station - Shanghai"
+    },
+    {
+        value: "TIF",
+        lavel: "Taif Airport - Riyadh"
+    },
+    {
+        value: "KDU",
+        lavel: "Skardu Airport - Karachi"
+    },
+    {
+        value: "UUS",
+        lavel: "Yuzhno-Sakhalinsk Airport - Srednekolymsk"
+    },
+    {
+        value: "RNU",
+        lavel: "Ranau - Kuching"
+    },
+    {
+        value: "MXW",
+        lavel: "Mandalgobi - Ulaanbaatar"
+    },
+    {
+        value: "GAJ",
+        lavel: "Junmachi Airport - Tokyo"
+    },
+    {
+        value: "SZI",
+        lavel: "Zaisan - Almaty"
+    },
+    {
+        value: "HAK",
+        lavel: "Haikou Airport - Shanghai"
+    },
+    {
+        value: "DOP",
+        lavel: "Dolpa - Kathmandu"
+    },
+    {
+        value: "AMI",
+        lavel: "Selaparang - Makassar"
+    },
+    {
+        value: "NMT",
+        lavel: "Namtu - Rangoon"
+    },
+    {
+        value: "PPK",
+        lavel: "Petropavlovsk Airport - Almaty"
+    },
+    {
+        value: "MPQ",
+        lavel: "Maan - Amman"
+    },
+    {
+        value: "SDV",
+        lavel: "Dov Hoz Airport - Jerusalem"
+    },
+    {
+        value: "JMO",
+        lavel: "Jomsom - Kathmandu"
+    },
+    {
+        value: "IXR",
+        lavel: "Birsa Munda Airport - Kolkata"
+    },
+    {
+        value: "SHB",
+        lavel: "Nakashibetsu Airport - Tokyo"
+    },
+    {
+        value: "TNX",
+        lavel: "Stung Treng - Phnom_Penh"
+    },
+    {
+        value: "JAG",
+        lavel: "Jacobabad - Karachi"
+    },
+    {
+        value: "ACP",
+        lavel: "Sahand - Tehran"
+    },
+    {
+        value: "PAT",
+        lavel: "Jay Prakash Narayan International Airport - Kolkata"
+    },
+    {
+        value: "LOP",
+        lavel: "Lombok International Airport - Makassar"
+    },
+    {
+        value: "MHD",
+        lavel: "Mashhad International Airport - Tehran"
+    },
+    {
+        value: "PVG",
+        lavel: "Shanghai Pudong International Airport - Shanghai"
+    },
+    {
+        value: "BXT",
+        lavel: "Bontang - Makassar"
+    },
+    {
+        value: "XSO",
+        lavel: "Siocon - Manila"
+    },
+    {
+        value: "JIW",
+        lavel: "Jiwani - Karachi"
+    },
+    {
+        value: "NGX",
+        lavel: "Manang - Kathmandu"
+    },
+    {
+        value: "CYZ",
+        lavel: "Cauayan Airport - Manila"
+    },
+    {
+        value: "AOM",
+        lavel: "Adam - Muscat"
+    },
+    {
+        value: "DHG",
+        lavel: "Dalnegorks - Vladivostok"
+    },
+    {
+        value: "LLF",
+        lavel: "Lingling Airport - Shanghai"
+    },
+    {
+        value: "TVS",
+        lavel: "Tangshan Sannuhe Airport - Shanghai"
+    },
+    {
+        value: "LLB",
+        lavel: "Libo County Libo City Airport - Shanghai"
+    },
+    {
+        value: "MYY",
+        lavel: "Miri Airport - Kuching"
+    },
+    {
+        value: "RJB",
+        lavel: "Rajbiraj - Kathmandu"
+    },
+    {
+        value: "MEY",
+        lavel: "Meghauli - Kathmandu"
+    },
+    {
+        value: "SGG",
+        lavel: "Simanggang - Kuching"
+    },
+    {
+        value: "ZTU",
+        lavel: "Zaqatala - Baku"
+    },
+    {
+        value: "TKG",
+        lavel: "Radin Inten II Airport - Jakarta"
+    },
+    {
+        value: "HAC",
+        lavel: "Hachijo Jima Airport - Tokyo"
+    },
+    {
+        value: "CBO",
+        lavel: "Awang Airport - Manila"
+    },
+    {
+        value: "VNG",
+        lavel: "Viengxay - Vientiane"
+    },
+    {
+        value: "JDZ",
+        lavel: "Jingdezhen Airport - Shanghai"
+    },
+    {
+        value: "SBT",
+        lavel: "Sabetta - Dushanbe"
+    },
+    {
+        value: "GAU",
+        lavel: "Lokpriya Gopinath Bordoloi International Airport - Kolkata"
+    },
+    {
+        value: "TTT",
+        lavel: "Taitung Airport - Taipei"
+    },
+    {
+        value: "GBB",
+        lavel: "Gabala International Airport - Baku"
+    },
+    {
+        value: "ZBD",
+        lavel: "Jiang Men Ferry - Shanghai"
+    },
+    {
+        value: "HBN",
+        lavel: "Flamingo - Ho_Chi_Minh"
+    },
+    {
+        value: "IMK",
+        lavel: "Simikot - Kathmandu"
+    },
+    {
+        value: "HPH",
+        lavel: "Cat Bi International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "ITM",
+        lavel: "Itami Airport - Tokyo"
+    },
+    {
+        value: "NMA",
+        lavel: "Namangan Airport - Tashkent"
+    },
+    {
+        value: "THL",
+        lavel: "Tachilek Airport - Rangoon"
+    },
+    {
+        value: "TJM",
+        lavel: "Roshchino International Airport - Yekaterinburg"
+    },
+    {
+        value: "VCA",
+        lavel: "Can Tho Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "ERT",
+        lavel: "Erdenet - Ulaanbaatar"
+    },
+    {
+        value: "ROI",
+        lavel: "Roi Et Airport - Bangkok"
+    },
+    {
+        value: "OKL",
+        lavel: "Oksibil - Jayapura"
+    },
+    {
+        value: "NUF",
+        lavel: "Castlereigh Reservoir Waterdrome - Colombo"
+    },
+    {
+        value: "MZR",
+        lavel: "Mazar-I-Sharif Airport - Kabul"
+    },
+    {
+        value: "TJH",
+        lavel: "Tajima - Tokyo"
+    },
+    {
+        value: "SAG",
+        lavel: "Shirdi - Colombo"
+    },
+    {
+        value: "PCQ",
+        lavel: "Bounneua - Vientiane"
+    },
+    {
+        value: "CEI",
+        lavel: "Chiang Rai International Airport - Bangkok"
+    },
+    {
+        value: "BMO",
+        lavel: "Bhamo - Rangoon"
+    },
+    {
+        value: "DTD",
+        lavel: "Datadawai - Makassar"
+    },
+    {
+        value: "PLW",
+        lavel: "Mutiara Airport - Makassar"
+    },
+    {
+        value: "HUI",
+        lavel: "Phu Bai International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "KYD",
+        lavel: "Orchid Island - Taipei"
+    },
+    {
+        value: "XLO",
+        lavel: "Long Xuyen - Ho_Chi_Minh"
+    },
+    {
+        value: "HVD",
+        lavel: "Khovd Airport - Hovd"
+    },
+    {
+        value: "NOZ",
+        lavel: "Novokuznetsk Airport - Novokuznetsk"
+    },
+    {
+        value: "LFQ",
+        lavel: "Linfen Qiaoli Airport - Shanghai"
+    },
+    {
+        value: "JUH",
+        lavel: "Chizhou Jiuhuashan Airport - Shanghai"
+    },
+    {
+        value: "TPE",
+        lavel: "Taiwan Taoyuan International Airport - Taipei"
+    },
+    {
+        value: "PAJ",
+        lavel: "Para Chinar - Karachi"
+    },
+    {
+        value: "ICN",
+        lavel: "Incheon International Airport - Seoul"
+    },
+    {
+        value: "SSN",
+        lavel: "Seoul AB - Seoul"
+    },
+    {
+        value: "NER",
+        lavel: "Neryungri Airport - Yakutsk"
+    },
+    {
+        value: "ZIZ",
+        lavel: "Zamzama - Karachi"
+    },
+    {
+        value: "KTM",
+        lavel: "Tribhuvan International Airport - Kathmandu"
+    },
+    {
+        value: "ZBZ",
+        lavel: "Xin Hui Ferry - Shanghai"
+    },
+    {
+        value: "UYN",
+        lavel: "Yulin Yuyang Airport - Shanghai"
+    },
+    {
+        value: "DEF",
+        lavel: "Dezful Airport - Tehran"
+    },
+    {
+        value: "BQG",
+        lavel: "Bogorodskoye - Vladivostok"
+    },
+    {
+        value: "JHG",
+        lavel: "Xishuangbanna Gasa Airport - Shanghai"
+    },
+    {
+        value: "OAI",
+        lavel: "Bagram - Kabul"
+    },
+    {
+        value: "ZUI",
+        lavel: "Jiuzhou Ferry Port - Shanghai"
+    },
+    {
+        value: "KOP",
+        lavel: "Nakhon Phanom Airport - Bangkok"
+    },
+    {
+        value: "DEZ",
+        lavel: "Al Jafrah - Damascus"
+    },
+    {
+        value: "TAO",
+        lavel: "Qingdao Liuting International Airport - Shanghai"
+    },
+    {
+        value: "QPG",
+        lavel: "Paya Lebar - Singapore"
+    },
+    {
+        value: "SUK",
+        lavel: "Sakkyryr Airport - Yakutsk"
+    },
+    {
+        value: "TOF",
+        lavel: "Tomsk Airport - Novokuznetsk"
+    },
+    {
+        value: "БАТ",
+        lavel: "Batken - Bishkek"
+    },
+    {
+        value: "IXA",
+        lavel: "Agartala Airport - Kolkata"
+    },
+    {
+        value: "OIM",
+        lavel: "Oshima - Tokyo"
+    },
+    {
+        value: "IXC",
+        lavel: "Chandigarh Airport - Kolkata"
+    },
+    {
+        value: "SPE",
+        lavel: "Sepulot - Kuching"
+    },
+    {
+        value: "YBP",
+        lavel: "Yibin Caiba Airport - Shanghai"
+    },
+    {
+        value: "XAA",
+        lavel: "Yerevan Stadium - Yerevan"
+    },
+    {
+        value: "LQS",
+        lavel: "Lingshui Railway Station - Shanghai"
+    },
+    {
+        value: "PPJ",
+        lavel: "Pulau Panjang - Jakarta"
+    },
+    {
+        value: "CMB",
+        lavel: "Bandaranaike International Airport - Colombo"
+    },
+    {
+        value: "TDG",
+        lavel: "Tandag - Manila"
+    },
+    {
+        value: "FUJ",
+        lavel: "Fukue Airport - Tokyo"
+    },
+    {
+        value: "HHE",
+        lavel: "Hachinohe - Tokyo"
+    },
+    {
+        value: "ECN",
+        lavel: "Ercan Airport - Nicosia"
+    },
+    {
+        value: "IXM",
+        lavel: "Madurai Airport - Kolkata"
+    },
+    {
+        value: "BFJ",
+        lavel: "Bijie Airport - Chongqing"
+    },
+    {
+        value: "UTH",
+        lavel: "Udon Thani International Airport - Bangkok"
+    },
+    {
+        value: "MZS",
+        lavel: "Mostyn - Kuching"
+    },
+    {
+        value: "XIE",
+        lavel: "Xienglom - Vientiane"
+    },
+    {
+        value: "BHH",
+        lavel: "Bisha Airport - Riyadh"
+    },
+    {
+        value: "CHF",
+        lavel: "Jinhae - Seoul"
+    },
+    {
+        value: "CJJ",
+        lavel: "Cheongju Airport - Seoul"
+    },
+    {
+        value: "KHK",
+        lavel: "Khark Island - Tehran"
+    },
+    {
+        value: "KMV",
+        lavel: "Kalemyo Airport - Rangoon"
+    },
+    {
+        value: "ССМ",
+        lavel: "Susuman - Magadan"
+    },
+    {
+        value: "KUJ",
+        lavel: "Kushimoto - Tokyo"
+    },
+    {
+        value: "BYN",
+        lavel: "Bayankhongor - Ulaanbaatar"
+    },
+    {
+        value: "CIF",
+        lavel: "Chifeng Airport - Shanghai"
+    },
+    {
+        value: "ABA",
+        lavel: "Abakan Airport - Krasnoyarsk"
+    },
+    {
+        value: "HIA",
+        lavel: "Huai'an Lianshui Airport - Shanghai"
+    },
+    {
+        value: "CSJ",
+        lavel: "Cape St Jacques - Ho_Chi_Minh"
+    },
+    {
+        value: "XMA",
+        lavel: "Maramag - Manila"
+    },
+    {
+        value: "RIS",
+        lavel: "Rishiri Airport - Tokyo"
+    },
+    {
+        value: "BBI",
+        lavel: "Biju Patnaik International Airport - Kolkata"
+    },
+    {
+        value: "USN",
+        lavel: "Ulsan Airport - Seoul"
+    },
+    {
+        value: "ZYI",
+        lavel: "Zunyi Xinzhou Airport - Shanghai"
+    },
+    {
+        value: "SGI",
+        lavel: "Sargodha Airport - Karachi"
+    },
+    {
+        value: "LHN",
+        lavel: "Lishan - Taipei"
+    },
+    {
+        value: "XKL",
+        lavel: "Sentral Railway Station - Kuala_Lumpur"
+    },
+    {
+        value: "KTG",
+        lavel: "Ketapang Airport - Pontianak"
+    },
+    {
+        value: "MMB",
+        lavel: "Memanbetsu Airport - Tokyo"
+    },
+    {
+        value: "KDZ",
+        lavel: "Polgolla Reservoir Airport - Colombo"
+    },
+    {
+        value: "ZHM",
+        lavel: "Shamshernagar - Dhaka"
+    },
+    {
+        value: "JIU",
+        lavel: "Jiujiang - Shanghai"
+    },
+    {
+        value: "DEE",
+        lavel: "Mendeleyevo Airport - Sakhalin"
+    },
+    {
+        value: "JUM",
+        lavel: "Jumla - Kathmandu"
+    },
+    {
+        value: "KYT",
+        lavel: "Kyauktaw - Rangoon"
+    },
+    {
+        value: "OKA",
+        lavel: "Naha Airport - Tokyo"
+    },
+    {
+        value: "DOY",
+        lavel: "Dongying Airport - Shanghai"
+    },
+    {
+        value: "RAT",
+        lavel: "Raduzhnyi - Yekaterinburg"
+    },
+    {
+        value: "GWA",
+        lavel: "Gwa - Rangoon"
+    },
+    {
+        value: "MNH",
+        lavel: "Minneriya - Colombo"
+    },
+    {
+        value: "KDY",
+        lavel: "Mahaweli - Colombo"
+    },
+    {
+        value: "FYJ",
+        lavel: "Fuyuan Dongji Airport - Shanghai"
+    },
+    {
+        value: "KGT",
+        lavel: "Kangding Airport - Shanghai"
+    },
+    {
+        value: "UNR",
+        lavel: "Underkhaan - Ulaanbaatar"
+    },
+    {
+        value: "IHN",
+        lavel: "Qishn - Aden"
+    },
+    {
+        value: "JXA",
+        lavel: "Jixi Airport - Shanghai"
+    },
+    {
+        value: "HDR",
+        lavel: "Havadarya - Tehran"
+    },
+    {
+        value: "IXW",
+        lavel: "Sonari - Kolkata"
+    },
+    {
+        value: "SAE",
+        lavel: "Sangir - Makassar"
+    },
+    {
+        value: "URA",
+        lavel: "Uralsk Airport - Oral"
+    },
+    {
+        value: "YIW",
+        lavel: "Yiwu Airport - Shanghai"
+    },
+    {
+        value: "GMP",
+        lavel: "Gimpo International Airport - Seoul"
+    },
+    {
+        value: "RZS",
+        lavel: "Sawan - Karachi"
+    },
+    {
+        value: "OVB",
+        lavel: "Novosibirsk Tolmachevo Airport - Phnom_Penh"
+    },
+    {
+        value: "ASJ",
+        lavel: "Amami Airport - Tokyo"
+    },
+    {
+        value: "RGT",
+        lavel: "Japura - Jakarta"
+    },
+    {
+        value: "IHR",
+        lavel: "Iran Shahr - Tehran"
+    },
+    {
+        value: "TSX",
+        lavel: "Tanjung Santan - Makassar"
+    },
+    {
+        value: "LZN",
+        lavel: "Matsu Nangan Airport - Taipei"
+    },
+    {
+        value: "BKM",
+        lavel: "Bakalalan - Kuching"
+    },
+    {
+        value: "AAN",
+        lavel: "Al Ain Airport - Dubai"
+    },
+    {
+        value: "UNN",
+        lavel: "Ranong Airport - Bangkok"
+    },
+    {
+        value: "LGK",
+        lavel: "Langkawi International Airport - Kuala_Lumpur"
+    },
+    {
+        value: "EAM",
+        lavel: "Nejran - Riyadh"
+    },
+    {
+        value: "NGK",
+        lavel: "Nogliki Airport - Sakhalin"
+    },
+    {
+        value: "SKD",
+        lavel: "Samarkand Airport - Samarkand"
+    },
+    {
+        value: "ELR",
+        lavel: "Elelim - Jayapura"
+    },
+    {
+        value: "DLC",
+        lavel: "Dalian Zhoushuizi International Airport - Shanghai"
+    },
+    {
+        value: "FSA",
+        lavel: "CZ Bus Station - Shanghai"
+    },
+    {
+        value: "STV",
+        lavel: "Surat Gujarat Airport - Kolkata"
+    },
+    {
+        value: "BGN",
+        lavel: "Belaya Gora Airport - Srednekolymsk"
+    },
+    {
+        value: "KMI",
+        lavel: "Miyazaki Airport - Tokyo"
+    },
+    {
+        value: "DAZ",
+        lavel: "Darwaz - Kabul"
+    },
+    {
+        value: "OHH",
+        lavel: "Novostroyka Airport - Srednekolymsk"
+    },
+    {
+        value: "IXU",
+        lavel: "Chikkalthana Airport - Kolkata"
+    },
+    {
+        value: "LBP",
+        lavel: "Long Banga Airfield - Kuching"
+    },
+    {
+        value: "VNS",
+        lavel: "Lal Bahadur Shastri International Airport - Kolkata"
+    },
+    {
+        value: "HIM",
+        lavel: "Hingurakgoda - Colombo"
+    },
+    {
+        value: "DHM",
+        lavel: "Gaggal Airport - Kolkata"
+    },
+    {
+        value: "BQS",
+        lavel: "Blagoveschensk Airport - Yakutsk"
+    },
+    {
+        value: "CGQ",
+        lavel: "Changchun Longjia International Airport - Shanghai"
+    },
+    {
+        value: "KEQ",
+        lavel: "Kebar - Jayapura"
+    },
+    {
+        value: "TUU",
+        lavel: "Tabuk Regional Airport - Riyadh"
+    },
+    {
+        value: "CXP",
+        lavel: "Tunggul Wulung - Jakarta"
+    },
+    {
+        value: "OMC",
+        lavel: "Ormoc - Manila"
+    },
+    {
+        value: "SJW",
+        lavel: "Shijiazhuang Daguocun Airport - Shanghai"
+    },
+    {
+        value: "KEZ",
+        lavel: "Kelaniya River - Colombo"
+    },
+    {
+        value: "BHV",
+        lavel: "Bahawalpur Airport - Karachi"
+    },
+    {
+        value: "KKQ",
+        lavel: "Krasnoselkup - Yekaterinburg"
+    },
+    {
+        value: "HET",
+        lavel: "Hohhot Baita International Airport - Shanghai"
+    },
+    {
+        value: "INC",
+        lavel: "Yinchuan Hedong International Airport - Shanghai"
+    },
+    {
+        value: "YES",
+        lavel: "Yasouj - Tehran"
+    },
+    {
+        value: "KKM",
+        lavel: "Lop Buri - Bangkok"
+    },
+    {
+        value: "LMN",
+        lavel: "Limbang Airport - Kuching"
+    },
+    {
+        value: "HFE",
+        lavel: "Hefei Xinqiao Airport - Shanghai"
+    },
+    {
+        value: "MYJ",
+        lavel: "Matsuyama Airport - Tokyo"
+    },
+    {
+        value: "BQJ",
+        lavel: "Batagay - Vladivostok"
+    },
+    {
+        value: "HSZ",
+        lavel: "Hsinchu - Taipei"
+    },
+    {
+        value: "UZH",
+        lavel: "Unayzah - Riyadh"
+    },
+    {
+        value: "KSH",
+        lavel: "Kermanshah Airport - Tehran"
+    },
+    {
+        value: "NTI",
+        lavel: "Bintuni - Jayapura"
+    },
+    {
+        value: "IBR",
+        lavel: "Ibaraki Airport - Tokyo"
+    },
+    {
+        value: "ZCP",
+        lavel: "Foshan Ferry - Shanghai"
+    },
+    {
+        value: "PSU",
+        lavel: "Putussibau Airport - Makassar"
+    },
+    {
+        value: "СВЕ",
+        lavel: "Severo-Evensk - Magadan"
+    },
+    {
+        value: "IPH",
+        lavel: "Ipoh Airport - Kuala_Lumpur"
+    },
+    {
+        value: "NSH",
+        lavel: "Now Shahr Airport - Tehran"
+    },
+    {
+        value: "UND",
+        lavel: "Kunduz - Kabul"
+    },
+    {
+        value: "NQZ",
+        lavel: "Nursultan (Astana) International Airport - Almaty"
+    },
+    {
+        value: "DCY",
+        lavel: "Daocheng Yading Airport - Shanghai"
+    },
+    {
+        value: "KUU",
+        lavel: "Bhuntar Airport - Kolkata"
+    },
+    {
+        value: "LWE",
+        lavel: "Lewoleba - Makassar"
+    },
+    {
+        value: "RUF",
+        lavel: "Yuruf - Jayapura"
+    },
+    {
+        value: "AXK",
+        lavel: "Ataq - Aden"
+    },
+    {
+        value: "PYY",
+        lavel: "Pai Airport - Bangkok"
+    },
+    {
+        value: "ZRI",
+        lavel: "Serui - Jayapura"
+    },
+    {
+        value: "BPL",
+        lavel: "Bole Airport - Shanghai"
+    },
+    {
+        value: "SEH",
+        lavel: "Senggeh - Jayapura"
+    },
+    {
+        value: "IWO",
+        lavel: "Iwo Jima Airbase - Tokyo"
+    },
+    {
+        value: "JJN",
+        lavel: "Quanzhou Jinjiang International Airport - Shanghai"
+    },
+    {
+        value: "MDL",
+        lavel: "Mandalay International Airport - Rangoon"
+    },
+    {
+        value: "GCH",
+        lavel: "Gachsaran - Tehran"
+    },
+    {
+        value: "KCZ",
+        lavel: "Kochi Ryoma Airport - Tokyo"
+    },
+    {
+        value: "LWY",
+        lavel: "Lawas Airport - Kuching"
+    },
+    {
+        value: "KWL",
+        lavel: "Guilin Liangjiang International Airport - Shanghai"
+    },
+    {
+        value: "DLU",
+        lavel: "Dali Airport - Shanghai"
+    },
+    {
+        value: "MIP",
+        lavel: "Mitspeh Ramon - Jerusalem"
+    },
+    {
+        value: "KVR",
+        lavel: "Kavalerovo - Vladivostok"
+    },
+    {
+        value: "MXB",
+        lavel: "Masamba - Makassar"
+    },
+    {
+        value: "LXA",
+        lavel: "Lhasa Gonggar Airport - Shanghai"
+    },
+    {
+        value: "MJY",
+        lavel: "Mangunjaya - Jakarta"
+    },
+    {
+        value: "MUS",
+        lavel: "Marcus Island - Tokyo"
+    },
+    {
+        value: "CNX",
+        lavel: "Chiang Mai International Airport - Bangkok"
+    },
+    {
+        value: "RIY",
+        lavel: "Riyan Mukalla - Aden"
+    },
+    {
+        value: "SHI",
+        lavel: "Shimojishima - Tokyo"
+    },
+    {
+        value: "NEF",
+        lavel: "Neftekamsk - Yekaterinburg"
+    },
+    {
+        value: "AHA",
+        lavel: "Naha AFB - Tokyo"
+    },
+    {
+        value: "BHO",
+        lavel: "Raja Bhoj Airport - Kolkata"
+    },
+    {
+        value: "DMB",
+        lavel: "Jambyl Airport - Almaty"
+    },
+    {
+        value: "PKR",
+        lavel: "Pokhara Airport - Kathmandu"
+    },
+    {
+        value: "CDY",
+        lavel: "Cagayan De Sulu - Manila"
+    },
+    {
+        value: "SRY",
+        lavel: "Dashte Naz Airport - Tehran"
+    },
+    {
+        value: "SBG",
+        lavel: "Maimun Saleh - Jakarta"
+    },
+    {
+        value: "SQR",
+        lavel: "Inco Soroako Waws - Makassar"
+    },
+    {
+        value: "LPQ",
+        lavel: "Luang Prabang International Airport - Vientiane"
+    },
+    {
+        value: "ADE",
+        lavel: "International - Aden"
+    },
+    {
+        value: "CRM",
+        lavel: "National Airport - Manila"
+    },
+    {
+        value: "MPT",
+        lavel: "Maliana - Dili"
+    },
+    {
+        value: "DYG",
+        lavel: "Zhangjiajie Hehua Airport - Shanghai"
+    },
+    {
+        value: "ZVH",
+        lavel: "EK Bus Station - Dubai"
+    },
+    {
+        value: "PDG",
+        lavel: "Minangkabau International Airport - Jakarta"
+    },
+    {
+        value: "KAZ",
+        lavel: "Kau - Jayapura"
+    },
+    {
+        value: "NNY",
+        lavel: "Nanyang Airport - Shanghai"
+    },
+    {
+        value: "ULG",
+        lavel: "Ulgit - Hovd"
+    },
+    {
+        value: "KER",
+        lavel: "Kerman Airport - Tehran"
+    },
+    {
+        value: "BVV",
+        lavel: "Burevestnik AFB - Sakhalin"
+    },
+    {
+        value: "SOC",
+        lavel: "Adi Sumarmo International Airport - Jakarta"
+    },
+    {
+        value: "XCN",
+        lavel: "Coron Airport - Manila"
+    },
+    {
+        value: "LIA",
+        lavel: "Liangping - Shanghai"
+    },
+    {
+        value: "NDA",
+        lavel: "Bandanaira - Jayapura"
+    },
+    {
+        value: "NJA",
+        lavel: "Atsugi NAS - Tokyo"
+    },
+    {
+        value: "YOT",
+        lavel: "Yotvata - Jerusalem"
+    },
+    {
+        value: "SWN",
+        lavel: "Sahiwal - Karachi"
+    },
+    {
+        value: "CDP",
+        lavel: "Cuddapah - Kolkata"
+    },
+    {
+        value: "EKS",
+        lavel: "Shakhtyorsk Airport - Sakhalin"
+    },
+    {
+        value: "OLR",
+        lavel: "Salerno Air Base - Kabul"
+    },
+    {
+        value: "FUK",
+        lavel: "Fukuoka Airport - Tokyo"
+    },
+    {
+        value: "PGH",
+        lavel: "Pantnagar Airport - Kolkata"
+    },
+    {
+        value: "TLQ",
+        lavel: "Turpan Jiaohe Airport - Shanghai"
+    },
+    {
+        value: "UKR",
+        lavel: "Mukeiras - Aden"
+    },
+    {
+        value: "PLM",
+        lavel: "Sultan Mahmud Badaruddin II Airport - Jakarta"
+    },
+    {
+        value: "GWD",
+        lavel: "Gwadar Airport - Karachi"
+    },
+    {
+        value: "TJB",
+        lavel: "Tanjung Balai - Jakarta"
+    },
+    {
+        value: "ZYL",
+        lavel: "Civil Airport - Dhaka"
+    },
+    {
+        value: "RUK",
+        lavel: "Rukumkot - Kathmandu"
+    },
+    {
+        value: "BUP",
+        lavel: "Bhatinda Airport - Kolkata"
+    },
+    {
+        value: "VCS",
+        lavel: "Con Dao - Ho_Chi_Minh"
+    },
+    {
+        value: "IXE",
+        lavel: "Mangalore Airport - Kolkata"
+    },
+    {
+        value: "XEU",
+        lavel: "Hyatt Rgncy EY Bus Station - Dubai"
+    },
+    {
+        value: "TAI",
+        lavel: "Al Janad - Aden"
+    },
+    {
+        value: "YKS",
+        lavel: "Yakutsk Airport - Yakutsk"
+    },
+    {
+        value: "HTN",
+        lavel: "Hotan Airport - Shanghai"
+    },
+    {
+        value: "PPR",
+        lavel: "Pasir Pangarayan - Jakarta"
+    },
+    {
+        value: "BWX",
+        lavel: "Banyuwangi - Jakarta"
+    },
+    {
+        value: "BWA",
+        lavel: "Bhairawa Airport - Kathmandu"
+    },
+    {
+        value: "TEI",
+        lavel: "Tezu - Kolkata"
+    },
+    {
+        value: "BPM",
+        lavel: "Begumpet - Kolkata"
+    },
+    {
+        value: "DEL",
+        lavel: "Indira Gandhi International Airport - Kolkata"
+    },
+    {
+        value: "PNQ",
+        lavel: "Pune Airport - Kolkata"
+    },
+    {
+        value: "TMJ",
+        lavel: "Termez Airport - Samarkand"
+    },
+    {
+        value: "YIA",
+        lavel: "Yogyakarta International Airport - Jakarta"
+    },
+    {
+        value: "AKH",
+        lavel: "Prince Sultan Air Base - Riyadh"
+    },
+    {
+        value: "BUS",
+        lavel: "Batumi Airport - Tbilisi"
+    },
+    {
+        value: "IUL",
+        lavel: "Ilu - Jayapura"
+    },
+    {
+        value: "NHS",
+        lavel: "Nushki - Karachi"
+    },
+    {
+        value: "DMM",
+        lavel: "King Fahd International Airport - Riyadh"
+    },
+    {
+        value: "RXA",
+        lavel: "Raudha - Aden"
+    },
+    {
+        value: "SXV",
+        lavel: "Salem - Kolkata"
+    },
+    {
+        value: "SWY",
+        lavel: "Sitiawan - Kuala_Lumpur"
+    },
+    {
+        value: "LDS",
+        lavel: "Yichun Shi Airport - Shanghai"
+    },
+    {
+        value: "TGG",
+        lavel: "Sultan Mahmud Airport - Kuala_Lumpur"
+    },
+    {
+        value: "SZX",
+        lavel: "Shenzhen Bao'an International Airport - Shanghai"
+    },
+    {
+        value: "CHW",
+        lavel: "Jiuhuang - Shanghai"
+    },
+    {
+        value: "MNU",
+        lavel: "Maulmyine - Rangoon"
+    },
+    {
+        value: "MTZ",
+        lavel: "Masada - Jerusalem"
+    },
+    {
+        value: "OKI",
+        lavel: "Oki Island - Tokyo"
+    },
+    {
+        value: "BEV",
+        lavel: "Beer Sheba - Jerusalem"
+    },
+    {
+        value: "AKJ",
+        lavel: "Asahikawa Airport - Tokyo"
+    },
+    {
+        value: "JSP",
+        lavel: "Seogwipo Heliport - Seoul"
+    },
+    {
+        value: "INX",
+        lavel: "Inanwatan - Jayapura"
+    },
+    {
+        value: "OIR",
+        lavel: "Okushiri Airport - Tokyo"
+    },
+    {
+        value: "REP",
+        lavel: "Siem Reap International Airport - Phnom_Penh"
+    },
+    {
+        value: "OLZ",
+        lavel: "Olokminsk Airport - Yakutsk"
+    },
+    {
+        value: "BSX",
+        lavel: "Bassein - Rangoon"
+    },
+    {
+        value: "SND",
+        lavel: "Seno - Vientiane"
+    },
+    {
+        value: "THQ",
+        lavel: "Maijishan - Shanghai"
+    },
+    {
+        value: "VNA",
+        lavel: "Saravane - Vientiane"
+    },
+    {
+        value: "BAV",
+        lavel: "Baotou Airport - Shanghai"
+    },
+    {
+        value: "AGD",
+        lavel: "Anggi - Jayapura"
+    },
+    {
+        value: "BXJ",
+        lavel: "Burundai - Almaty"
+    },
+    {
+        value: "PGU",
+        lavel: "Ala'Marvdasht Airport - Tehran"
+    },
+    {
+        value: "CKG",
+        lavel: "Chongqing Jiangbei International Airport - Shanghai"
+    },
+    {
+        value: "SXK",
+        lavel: "Saumlaki Olilit Airport - Jayapura"
+    },
+    {
+        value: "KSN",
+        lavel: "Kostanay Airport - Almaty"
+    },
+    {
+        value: "KIX",
+        lavel: "Kansai International Airport - Tokyo"
+    },
+    {
+        value: "ARD",
+        lavel: "Alor Island Airport - Makassar"
+    },
+    {
+        value: "LDN",
+        lavel: "Lamidanda - Kathmandu"
+    },
+    {
+        value: "SZV",
+        lavel: "Suzhou - Shanghai"
+    },
+    {
+        value: "RMD",
+        lavel: "Ramagundam - Kolkata"
+    },
+    {
+        value: "MBO",
+        lavel: "Mamburao - Manila"
+    },
+    {
+        value: "YGJ",
+        lavel: "Miho Airport - Tokyo"
+    },
+    {
+        value: "CGO",
+        lavel: "Zhengzhou Xinzheng Airport - Shanghai"
+    },
+    {
+        value: "ERL",
+        lavel: "Eren Hot Airport - Shanghai"
+    },
+    {
+        value: "KLQ",
+        lavel: "Keluang - Jakarta"
+    },
+    {
+        value: "WKJ",
+        lavel: "Hokkaido Airport - Tokyo"
+    },
+    {
+        value: "GZA",
+        lavel: "Gaza - Yaser Arafat International Airport - Gaza"
+    },
+    {
+        value: "UKK",
+        lavel: "Ust-Kamenogorsk Airport - Almaty"
+    },
+    {
+        value: "TNB",
+        lavel: "Tanah Grogot - Makassar"
+    },
+    {
+        value: "KIK",
+        lavel: "Kirkuk - Baghdad"
+    },
+    {
+        value: "CPF",
+        lavel: "Cepu - Jakarta"
+    },
+    {
+        value: "LLM",
+        lavel: "Long Lama - Kuching"
+    },
+    {
+        value: "DMK",
+        lavel: "Don Mueang International Airport - Bangkok"
+    },
+    {
+        value: "TNE",
+        lavel: "Tanegashima - Tokyo"
+    },
+    {
+        value: "KZD",
+        lavel: "Krakor - Phnom_Penh"
+    },
+    {
+        value: "IXP",
+        lavel: "Pathankot - Kolkata"
+    },
+    {
+        value: "ZGN",
+        lavel: "Zhongshan Ferry Port - Shanghai"
+    },
+    {
+        value: "SGN",
+        lavel: "Tan Son Nhat International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "IXH",
+        lavel: "Kailashahar - Kolkata"
+    },
+    {
+        value: "KHT",
+        lavel: "Khost - Kabul"
+    },
+    {
+        value: "HHQ",
+        lavel: "Hua Hin Airport - Bangkok"
+    },
+    {
+        value: "BLR",
+        lavel: "Kempegowda International Airport - Kolkata"
+    },
+    {
+        value: "LKA",
+        lavel: "Gewayenta Airport - Makassar"
+    },
+    {
+        value: "CGK",
+        lavel: "Soekarno-Hatta International Airport - Jakarta"
+    },
+    {
+        value: "NMB",
+        lavel: "Daman - Kolkata"
+    },
+    {
+        value: "YMK",
+        lavel: "Mys-Kamenny - Yekaterinburg"
+    },
+    {
+        value: "KOG",
+        lavel: "Khong - Vientiane"
+    },
+    {
+        value: "IMF",
+        lavel: "Imphal Municipal Airport - Kolkata"
+    },
+    {
+        value: "SIH",
+        lavel: "Silgadi Doti - Kathmandu"
+    },
+    {
+        value: "DDG",
+        lavel: "Langtou Airport - Shanghai"
+    },
+    {
+        value: "SYH",
+        lavel: "Syangboche - Kathmandu"
+    },
+    {
+        value: "GYD",
+        lavel: "Heydar Aliyev International Airport - Baku"
+    },
+    {
+        value: "MDG",
+        lavel: "Mudanjiang Airport - Shanghai"
+    },
+    {
+        value: "RJI",
+        lavel: "Rajouri - Kolkata"
+    },
+    {
+        value: "JAR",
+        lavel: "Jahrom - Tehran"
+    },
+    {
+        value: "KWE",
+        lavel: "Guiyang Longdongbao International Airport - Shanghai"
+    },
+    {
+        value: "TLI",
+        lavel: "Tolitoli - Makassar"
+    },
+    {
+        value: "JSA",
+        lavel: "Jaisalmer - Kolkata"
+    },
+    {
+        value: "BSE",
+        lavel: "Sematan - Kuching"
+    },
+    {
+        value: "GOP",
+        lavel: "Gorakhpur Airport - Kolkata"
+    },
+    {
+        value: "UMS",
+        lavel: "Ust-Maya - Yakutsk"
+    },
+    {
+        value: "NVI",
+        lavel: "Navoi Airport - Samarkand"
+    },
+    {
+        value: "FAZ",
+        lavel: "Fasa - Tehran"
+    },
+    {
+        value: "LPU",
+        lavel: "Long Apung - Makassar"
+    },
+    {
+        value: "TVY",
+        lavel: "Dawe Airport - Rangoon"
+    },
+    {
+        value: "SRG",
+        lavel: "Achmad Yani International Airport - Jakarta"
+    },
+    {
+        value: "BGW",
+        lavel: "Baghdad International Airport - Baghdad"
+    },
+    {
+        value: "SED",
+        lavel: "Min'hat Hashnayim - Jerusalem"
+    },
+    {
+        value: "NYA",
+        lavel: "Nyagan Airport - Yekaterinburg"
+    },
+    {
+        value: "GHN",
+        lavel: "Guanghan - Shanghai"
+    },
+    {
+        value: "BYQ",
+        lavel: "Bunyu - Makassar"
+    },
+    {
+        value: "OZC",
+        lavel: "Labo Airport - Manila"
+    },
+    {
+        value: "KDT",
+        lavel: "Kamphangsaen - Bangkok"
+    },
+    {
+        value: "ZER",
+        lavel: "Zero - Kolkata"
+    },
+    {
+        value: "MGZ",
+        lavel: "Myeik Airport - Rangoon"
+    },
+    {
+        value: "MLP",
+        lavel: "Malabang - Manila"
+    },
+    {
+        value: "SWT",
+        lavel: "Strezhevoy Airport - Novosibirsk"
+    },
+    {
+        value: "MAA",
+        lavel: "Chennai Airport - Kolkata"
+    },
+    {
+        value: "YNJ",
+        lavel: "Yanji Chaoyangchuan Airport - Shanghai"
+    },
+    {
+        value: "CGG",
+        lavel: "Casiguran - Manila"
+    },
+    {
+        value: "LOE",
+        lavel: "Loei Airport - Bangkok"
+    },
+    {
+        value: "JAF",
+        lavel: "Kankesanturai - Colombo"
+    },
+    {
+        value: "SYZ",
+        lavel: "Shiraz International Airport - Tehran"
+    },
+    {
+        value: "PXR",
+        lavel: "Surin - Bangkok"
+    },
+    {
+        value: "HSS",
+        lavel: "Hissar - Kolkata"
+    },
+    {
+        value: "HOO",
+        lavel: "Nhon Co - Ho_Chi_Minh"
+    },
+    {
+        value: "NYR",
+        lavel: "Nyurba Airport - Yakutsk"
+    },
+    {
+        value: "TBM",
+        lavel: "Tumbang Samba - Makassar"
+    },
+    {
+        value: "SRI",
+        lavel: "Temindung Airport - Makassar"
+    },
+    {
+        value: "BHC",
+        lavel: "Bhurban Heliport - Karachi"
+    },
+    {
+        value: "TCG",
+        lavel: "Tacheng - Shanghai"
+    },
+    {
+        value: "BWH",
+        lavel: "Butterworth - Kuala_Lumpur"
+    },
+    {
+        value: "NNX",
+        lavel: "Nunukan - Makassar"
+    },
+    {
+        value: "UAI",
+        lavel: "Suai - Dili"
+    },
+    {
+        value: "MWP",
+        lavel: "Mountain - Kathmandu"
+    },
+    {
+        value: "BYD",
+        lavel: "Beidah - Aden"
+    },
+    {
+        value: "UBP",
+        lavel: "Ubon Ratchathani International Airport - Bangkok"
+    },
+    {
+        value: "AQG",
+        lavel: "Anqing Tianzhushan Airport - Shanghai"
+    },
+    {
+        value: "TEZ",
+        lavel: "Tezpur Airport - Kolkata"
+    },
+    {
+        value: "BXH",
+        lavel: "Balhash - Almaty"
+    },
+    {
+        value: "OIT",
+        lavel: "Oita Airport - Tokyo"
+    },
+    {
+        value: "TQN",
+        lavel: "Taluqan - Kabul"
+    },
+    {
+        value: "ZVK",
+        lavel: "Savannakhet - Vientiane"
+    },
+    {
+        value: "SOA",
+        lavel: "Soc Trang - Ho_Chi_Minh"
+    },
+    {
+        value: "VCL",
+        lavel: "Chu Lai International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "WRZ",
+        lavel: "Wirawila - Colombo"
+    },
+    {
+        value: "HKD",
+        lavel: "Hakodate Airport - Tokyo"
+    },
+    {
+        value: "TCZ",
+        lavel: "Tengchong Tuofeng Airport - Shanghai"
+    },
+    {
+        value: "ZAM",
+        lavel: "Zamboanga International Airport - Manila"
+    },
+    {
+        value: "BUI",
+        lavel: "Bokondini - Jayapura"
+    },
+    {
+        value: "TJV",
+        lavel: "Thanjavur - Kolkata"
+    },
+    {
+        value: "GUX",
+        lavel: "Guna - Kolkata"
+    },
+    {
+        value: "ACJ",
+        lavel: "Anuradhapura - Colombo"
+    },
+    {
+        value: "TAG",
+        lavel: "Bohol-Panglao - Manila"
+    },
+    {
+        value: "BIT",
+        lavel: "Baitadi - Kathmandu"
+    },
+    {
+        value: "BXU",
+        lavel: "Butuan Airport - Manila"
+    },
+    {
+        value: "CBD",
+        lavel: "Car Nicobar - Kolkata"
+    },
+    {
+        value: "NKM",
+        lavel: "Nagoya Airport - Tokyo"
+    },
+    {
+        value: "GTO",
+        lavel: "Tolotio Airport - Makassar"
+    },
+    {
+        value: "HIN",
+        lavel: "Sacheon Airport - Seoul"
+    },
+    {
+        value: "BHY",
+        lavel: "Beihai Fucheng Airport - Shanghai"
+    },
+    {
+        value: "MZV",
+        lavel: "Mulu Airport - Kuching"
+    },
+    {
+        value: "BZL",
+        lavel: "Barisal Airport - Dhaka"
+    },
+    {
+        value: "TOX",
+        lavel: "Tobolsk - Yekaterinburg"
+    },
+    {
+        value: "CJB",
+        lavel: "Coimbatore International Airport - Kolkata"
+    },
+    {
+        value: "PBW",
+        lavel: "Palibelo - Makassar"
+    },
+    {
+        value: "TOD",
+        lavel: "Tioman - Kuala_Lumpur"
+    },
+    {
+        value: "BAX",
+        lavel: "Barnaul Airport - Novokuznetsk"
+    },
+    {
+        value: "DCG",
+        lavel: "Dubai Creek SPB - Dubai"
+    },
+    {
+        value: "RGH",
+        lavel: "Balurghat - Kolkata"
+    },
+    {
+        value: "PMS",
+        lavel: "Palmyra - Damascus"
+    },
+    {
+        value: "UKY",
+        lavel: "Kyoto - Tokyo"
+    },
+    {
+        value: "ZAT",
+        lavel: "Zhaotong Airport - Shanghai"
+    },
+    {
+        value: "FKS",
+        lavel: "Fukushima Airport - Tokyo"
+    },
+    {
+        value: "DHL",
+        lavel: "Dhala - Aden"
+    },
+    {
+        value: "GAW",
+        lavel: "Gangaw - Rangoon"
+    },
+    {
+        value: "KJA",
+        lavel: "Yemelyanovo Airport - Krasnoyarsk"
+    },
+    {
+        value: "ZHY",
+        lavel: "Zhongwei Airport - Shanghai"
+    },
+    {
+        value: "ETH",
+        lavel: "Eilat Airport - Jerusalem"
+    },
+    {
+        value: "XMB",
+        lavel: "Marina Mall EY Bus Station - Dubai"
+    },
+    {
+        value: "ONJ",
+        lavel: "Odate Noshiro Airport - Tokyo"
+    },
+    {
+        value: "UKG",
+        lavel: "Ust-Kuiga - Yakutsk"
+    },
+    {
+        value: "TNJ",
+        lavel: "Kidjang Airport - Jakarta"
+    },
+    {
+        value: "TNN",
+        lavel: "Tainan Airport - Taipei"
+    },
+    {
+        value: "KHR",
+        lavel: "Kharkhorin - Ulaanbaatar"
+    },
+    {
+        value: "LUW",
+        lavel: "Bubung Airport - Makassar"
+    },
+    {
+        value: "HUN",
+        lavel: "Hualien Airport - Taipei"
+    },
+    {
+        value: "MFY",
+        lavel: "Mayfa'ah - Aden"
+    },
+    {
+        value: "UON",
+        lavel: "Muong Sai - Vientiane"
+    },
+    {
+        value: "HLH",
+        lavel: "Ulanhot Airport - Shanghai"
+    },
+    {
+        value: "IKA",
+        lavel: "Imam Khomeini International Airport - Tehran"
+    },
+    {
+        value: "MRQ",
+        lavel: "Marinduque - Manila"
+    },
+    {
+        value: "ZIU",
+        lavel: "Railway - Shanghai"
+    },
+    {
+        value: "KNR",
+        lavel: "Jam - Tehran"
+    },
+    {
+        value: "OKD",
+        lavel: "Okadama Airport - Tokyo"
+    },
+    {
+        value: "KHS",
+        lavel: "Khasab Airport - Muscat"
+    },
+    {
+        value: "TSZ",
+        lavel: "Tsetserleg - Ulaanbaatar"
+    },
+    {
+        value: "WUX",
+        lavel: "Sunan Shuofang International Airport - Shanghai"
+    },
+    {
+        value: "KWB",
+        lavel: "Karimunjawa - Jakarta"
+    },
+    {
+        value: "GEC",
+        lavel: "Gecitkale - Nicosia"
+    },
+    {
+        value: "PNH",
+        lavel: "Phnom Penh International Airport - Phnom_Penh"
+    },
+    {
+        value: "CWP",
+        lavel: "Campbellpore - Karachi"
+    },
+    {
+        value: "SLV",
+        lavel: "Simla - Kolkata"
+    },
+    {
+        value: "AHW",
+        lavel: "Saih Rawl - Muscat"
+    },
+    {
+        value: "KCA",
+        lavel: "Kuqa Airport - Shanghai"
+    },
+    {
+        value: "RJA",
+        lavel: "Rajahmundry Airport - Kolkata"
+    },
+    {
+        value: "RUH",
+        lavel: "King Khaled International Airport - Riyadh"
+    },
+    {
+        value: "TMY",
+        lavel: "Tiom - Jayapura"
+    },
+    {
+        value: "RDE",
+        lavel: "Merdey - Jayapura"
+    },
+    {
+        value: "OMH",
+        lavel: "Urmia Airport - Tehran"
+    },
+    {
+        value: "ZAJ",
+        lavel: "Zaranj - Kabul"
+    },
+    {
+        value: "HRI",
+        lavel: "Mattala Rajapaksa International Airport - Colombo"
+    },
+    {
+        value: "GVN",
+        lavel: "May-Gatka - Vladivostok"
+    },
+    {
+        value: "NFG",
+        lavel: "Nefteyugansk - Yekaterinburg"
+    },
+    {
+        value: "BOM",
+        lavel: "Chhatrapati Shivaji International Airport - Kolkata"
+    },
+    {
+        value: "KNH",
+        lavel: "Kinmen Airport - Taipei"
+    },
+    {
+        value: "DWD",
+        lavel: "Dawadmi Airport - Riyadh"
+    },
+    {
+        value: "ISG",
+        lavel: "Painushima Ishigaki Airport - Tokyo"
+    },
+    {
+        value: "TJQ",
+        lavel: "Bulutumbang Airport - Jakarta"
+    },
+    {
+        value: "RBJ",
+        lavel: "Rebun - Tokyo"
+    },
+    {
+        value: "HCN",
+        lavel: "Hengchun - Taipei"
+    },
+    {
+        value: "NHD",
+        lavel: "Minhad AB - Dubai"
+    },
+    {
+        value: "DXB",
+        lavel: "Dubai Airport - Dubai"
+    },
+    {
+        value: "MKQ",
+        lavel: "Mopah Airport - Jayapura"
+    },
+    {
+        value: "AZI",
+        lavel: "Bateen - Dubai"
+    },
+    {
+        value: "IXI",
+        lavel: "Lilabari Airport - Kolkata"
+    },
+    {
+        value: "SKH",
+        lavel: "Surkhet - Kathmandu"
+    },
+    {
+        value: "XIL",
+        lavel: "Xilinhot Airport - Shanghai"
+    },
+    {
+        value: "BMN",
+        lavel: "Bamerny - Baghdad"
+    },
+    {
+        value: "CRK",
+        lavel: "Diosdado Macapagal International (Clark International) - Manila"
+    },
+    {
+        value: "ZEF",
+        lavel: "Nanhai Ferry - Shanghai"
+    },
+    {
+        value: "HZG",
+        lavel: "Hanzhong Airport - Shanghai"
+    },
+    {
+        value: "GOY",
+        lavel: "Amparai - Colombo"
+    },
+    {
+        value: "TTR",
+        lavel: "Tana Toraja - Makassar"
+    },
+    {
+        value: "NAJ",
+        lavel: "Nakhichevan Airport - Baku"
+    },
+    {
+        value: "VDO",
+        lavel: "Van Don - Ho_Chi_Minh"
+    },
+    {
+        value: "CQD",
+        lavel: "Shahre-kord - Tehran"
+    },
+    {
+        value: "ZRM",
+        lavel: "Sarmi - Jayapura"
+    },
+    {
+        value: "HSG",
+        lavel: "Saga Airport - Tokyo"
+    },
+    {
+        value: "JYR",
+        lavel: "Jiroft - Tehran"
+    },
+    {
+        value: "NYU",
+        lavel: "Nyaung U Airport - Rangoon"
+    },
+    {
+        value: "GES",
+        lavel: "General Santos International Airport - Manila"
+    },
+    {
+        value: "PHU",
+        lavel: "Phu Vinh - Ho_Chi_Minh"
+    },
+    {
+        value: "WNZ",
+        lavel: "Wenzhou Longwan International Airport - Shanghai"
+    },
+    {
+        value: "HRB",
+        lavel: "Harbin Taiping International Airport - Shanghai"
+    },
+    {
+        value: "NST",
+        lavel: "Nakhon Si Thammarat Airport - Bangkok"
+    },
+    {
+        value: "GSA",
+        lavel: "Long Pasia - Kuching"
+    },
+    {
+        value: "RKT",
+        lavel: "Ras Al Khaimah International Airport - Dubai"
+    },
+    {
+        value: "TTE",
+        lavel: "Babullah Airport - Jayapura"
+    },
+    {
+        value: "NAW",
+        lavel: "Narathiwat Airport - Bangkok"
+    },
+    {
+        value: "BMU",
+        lavel: "Sultan Muhammad Salahuddin Airport - Makassar"
+    },
+    {
+        value: "CNI",
+        lavel: "Changhai - Shanghai"
+    },
+    {
+        value: "SDO",
+        lavel: "Ryotsu Sado Island - Tokyo"
+    },
+    {
+        value: "LDR",
+        lavel: "Lodar - Aden"
+    },
+    {
+        value: "WUA",
+        lavel: "Wuhai Airport - Shanghai"
+    },
+    {
+        value: "LMJ",
+        lavel: "Tokyo Bus Station - Tokyo"
+    },
+    {
+        value: "AHB",
+        lavel: "Abha Regional Airport - Riyadh"
+    },
+    {
+        value: "JRS",
+        lavel: "Atarot - Jerusalem"
+    },
+    {
+        value: "BCH",
+        lavel: "Cakung International - Dili"
+    },
+    {
+        value: "TSE",
+        lavel: "Nursultan (Astana) International Airport - Almaty"
+    },
+    {
+        value: "GEB",
+        lavel: "Gebe - Jayapura"
+    },
+    {
+        value: "TWT",
+        lavel: "Tawitawi - Manila"
+    },
+    {
+        value: "RGK",
+        lavel: "Gorno-Altaysk Airport - Novokuznetsk"
+    },
+    {
+        value: "WUZ",
+        lavel: "Changzhoudao - Shanghai"
+    },
+    {
+        value: "KOS",
+        lavel: "Sihanouk International Airport - Phnom_Penh"
+    },
+    {
+        value: "THK",
+        lavel: "Thakhek - Vientiane"
+    },
+    {
+        value: "CCN",
+        lavel: "Chakcharan - Kabul"
+    },
+    {
+        value: "KWH",
+        lavel: "Khwahan - Kabul"
+    },
+    {
+        value: "SDJ",
+        lavel: "Sendai Airport - Tokyo"
+    },
+    {
+        value: "EZV",
+        lavel: "Berezovo - Yekaterinburg"
+    },
+    {
+        value: "KBH",
+        lavel: "Kalat - Karachi"
+    },
+    {
+        value: "ENY",
+        lavel: "Ershilipu Airport - Shanghai"
+    },
+    {
+        value: "BAH",
+        lavel: "Bahrain International Airport - Bahrain"
+    },
+    {
+        value: "FSZ",
+        lavel: "Shizuoka Airport - Tokyo"
+    },
+    {
+        value: "OMF",
+        lavel: "King Hussein - Amman"
+    },
+    {
+        value: "MDP",
+        lavel: "Mindiptana - Jayapura"
+    },
+    {
+        value: "OHE",
+        lavel: "Mohe Airport - Shanghai"
+    },
+    {
+        value: "LYP",
+        lavel: "Faisalabad Airport - Karachi"
+    },
+    {
+        value: "TCR",
+        lavel: "Tuticorin Airport - Kolkata"
+    },
+    {
+        value: "DEA",
+        lavel: "Dera Ghazi Khan Airport - Karachi"
+    },
+    {
+        value: "DIL",
+        lavel: "Comoro Airport - Dili"
+    },
+    {
+        value: "SPD",
+        lavel: "Saidpur Airport - Dhaka"
+    },
+    {
+        value: "BIN",
+        lavel: "Bamiyan - Kabul"
+    },
+    {
+        value: "PQD",
+        lavel: "Pasikudha SPB - Colombo"
+    },
+    {
+        value: "DSN",
+        lavel: "Ordos Ejin Horo Airport - Shanghai"
+    },
+    {
+        value: "ETM",
+        lavel: "Ramon Airport - Jerusalem"
+    },
+    {
+        value: "WSR",
+        lavel: "Wasior - Jayapura"
+    },
+    {
+        value: "VTZ",
+        lavel: "Vishakhapatnam Airport - Kolkata"
+    },
+    {
+        value: "MJD",
+        lavel: "Mohenjodaro - Karachi"
+    },
+    {
+        value: "IKT",
+        lavel: "Irkutsk International Airport - Irkutsk"
+    },
+    {
+        value: "HNY",
+        lavel: "Hengyang Nanyue Airport - Shanghai"
+    },
+    {
+        value: "UZR",
+        lavel: "Urzhar - Omsk"
+    },
+    {
+        value: "PYX",
+        lavel: "Pattaya - Bangkok"
+    },
+    {
+        value: "KLM",
+        lavel: "Kalaleh - Tehran"
+    },
+    {
+        value: "XSP",
+        lavel: "Seletar - Singapore"
+    },
+    {
+        value: "MOF",
+        lavel: "Wai Oti Airport - Makassar"
+    },
+    {
+        value: "SHL",
+        lavel: "Shillong Airport - Kolkata"
+    },
+    {
+        value: "RKO",
+        lavel: "Sipora - Jakarta"
+    },
+    {
+        value: "JIQ",
+        lavel: "Qianjiang Wulingshan Airport - Shanghai"
+    },
+    {
+        value: "WNS",
+        lavel: "Nawabshah - Karachi"
+    },
+    {
+        value: "DZN",
+        lavel: "Zhezhazgan Airport - Almaty"
+    },
+    {
+        value: "ZAH",
+        lavel: "Zahedan Airport - Tehran"
+    },
+    {
+        value: "HDD",
+        lavel: "Hyderabad - Karachi"
+    },
+    {
+        value: "IXG",
+        lavel: "Belgaum Airport - Kolkata"
+    },
+    {
+        value: "ILA",
+        lavel: "Illaga - Jayapura"
+    },
+    {
+        value: "RYK",
+        lavel: "Rahim Yar Khan Airport - Karachi"
+    },
+    {
+        value: "OAZ",
+        lavel: "Camp Bastion - Kabul"
+    },
+    {
+        value: "ABU",
+        lavel: "Haliwen Airport - Makassar"
+    },
+    {
+        value: "KHA",
+        lavel: "Khaneh - Tehran"
+    },
+    {
+        value: "LSX",
+        lavel: "Lhok Sukon - Jakarta"
+    },
+    {
+        value: "ABD",
+        lavel: "Abadan Airport - Tehran"
+    },
+    {
+        value: "KCF",
+        lavel: "Kadanwari - Karachi"
+    },
+    {
+        value: "PKS",
+        lavel: "Paksane - Vientiane"
+    },
+    {
+        value: "JOL",
+        lavel: "Jolo - Manila"
+    },
+    {
+        value: "KQT",
+        lavel: "Qurghonteppa International Airport - Dushanbe"
+    },
+    {
+        value: "PVS",
+        lavel: "Provideniya - Anadyr"
+    },
+    {
+        value: "LDU",
+        lavel: "Lahad Datu Airport - Kuching"
+    },
+    {
+        value: "AKW",
+        lavel: "Aghajari - Tehran"
+    },
+    {
+        value: "NDG",
+        lavel: "Qiqihar Airport - Shanghai"
+    },
+    {
+        value: "LDA",
+        lavel: "Malda - Kolkata"
+    },
+    {
+        value: "MES",
+        lavel: "Polonia - Jakarta"
+    },
+    {
+        value: "PGK",
+        lavel: "Depati Amir Airport - Jakarta"
+    },
+    {
+        value: "DNP",
+        lavel: "Dang - Kathmandu"
+    },
+    {
+        value: "KOE",
+        lavel: "El Tari Airport - Dili"
+    },
+    {
+        value: "TNZ",
+        lavel: "Tosontsengel - Hovd"
+    },
+    {
+        value: "PHS",
+        lavel: "Phitsanulok Airport - Bangkok"
+    },
+    {
+        value: "RKI",
+        lavel: "Rokot - Jakarta"
+    },
+    {
+        value: "MMD",
+        lavel: "Maridor - Tokyo"
+    },
+    {
+        value: "DGM",
+        lavel: "Dongguan - Colombo"
+    },
+    {
+        value: "OMI",
+        lavel: "Omidieh - Tehran"
+    },
+    {
+        value: "SEQ",
+        lavel: "Sungai Pakning - Jakarta"
+    },
+    {
+        value: "SHA",
+        lavel: "Shanghai Hongqiao International Airport - Shanghai"
+    },
+    {
+        value: "UIK",
+        lavel: "Ust-Ilimsk - Irkutsk"
+    },
+    {
+        value: "DED",
+        lavel: "Dehra Dun Airport - Kolkata"
+    },
+    {
+        value: "KNG",
+        lavel: "Kaimana Airport - Jayapura"
+    },
+    {
+        value: "DIN",
+        lavel: "Dien Bien Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "NJC",
+        lavel: "Nizhnevartovsk Airport - Yekaterinburg"
+    },
+    {
+        value: "MJZ",
+        lavel: "Mirnyj Airport - Yakutsk"
+    },
+    {
+        value: "LUV",
+        lavel: "Langgur Airport - Jayapura"
+    },
+    {
+        value: "SUG",
+        lavel: "Surigao Airport - Manila"
+    },
+    {
+        value: "JOG",
+        lavel: "Adisutjipto International Airport - Jakarta"
+    },
+    {
+        value: "KET",
+        lavel: "Keng Tung Airport - Rangoon"
+    },
+    {
+        value: "SYX",
+        lavel: "Sanya Phoenix International Airport - Shanghai"
+    },
+    {
+        value: "LXG",
+        lavel: "Luang Namtha Airport - Vientiane"
+    },
+    {
+        value: "ЕГЧ",
+        lavel: "Erbogachyon - Irkutsk"
+    },
+    {
+        value: "COK",
+        lavel: "Cochin International Airport - Kolkata"
+    },
+    {
+        value: "BJW",
+        lavel: "Bajawa Soa Airport - Makassar"
+    },
+    {
+        value: "PUT",
+        lavel: "Puttaprathe - Kolkata"
+    },
+    {
+        value: "TNH",
+        lavel: "Tonghua Sanyuanpu Airport - Shanghai"
+    },
+    {
+        value: "GWL",
+        lavel: "Gwalior Airport - Kolkata"
+    },
+    {
+        value: "HDY",
+        lavel: "Hat Yai International Airport - Bangkok"
+    },
+    {
+        value: "OHO",
+        lavel: "Okhotsk - Vladivostok"
+    },
+    {
+        value: "PAU",
+        lavel: "Pauk - Rangoon"
+    },
+    {
+        value: "KPI",
+        lavel: "Kapit - Kuching"
+    },
+    {
+        value: "ZYK",
+        lavel: "Shekou Ferry Terminal - Shanghai"
+    },
+    {
+        value: "AQJ",
+        lavel: "King Hussein International Airport - Amman"
+    },
+    {
+        value: "LSH",
+        lavel: "Lashio - Rangoon"
+    },
+    {
+        value: "PAN",
+        lavel: "Pattani - Bangkok"
+    },
+    {
+        value: "BEP",
+        lavel: "Bellary - Kolkata"
+    },
+    {
+        value: "NVY",
+        lavel: "Neyveli - Kolkata"
+    },
+    {
+        value: "MAL",
+        lavel: "Mangole - Jayapura"
+    },
+    {
+        value: "SXS",
+        lavel: "Sahabat 16 - Kuching"
+    },
+    {
+        value: "AKX",
+        lavel: "Aktobe Airport - Aqtobe"
+    },
+    {
+        value: "NTG",
+        lavel: "Nantong Xingdong Airport - Shanghai"
+    },
+    {
+        value: "MXI",
+        lavel: "Imelda Romualdez Marcos - Manila"
+    },
+    {
+        value: "PFQ",
+        lavel: "Parsabad - Tehran"
+    },
+    {
+        value: "NTQ",
+        lavel: "Noto Airport - Tokyo"
+    },
+    {
+        value: "MOG",
+        lavel: "Mong Hsat - Rangoon"
+    },
+    {
+        value: "BND",
+        lavel: "Bandar Abbas International Airport - Tehran"
+    },
+    {
+        value: "BKB",
+        lavel: "Bikaner - Kolkata"
+    },
+    {
+        value: "BXR",
+        lavel: "Bam - Tehran"
+    },
+    {
+        value: "KTY",
+        lavel: "Katukurunda Slaf Base - Colombo"
+    },
+    {
+        value: "PPL",
+        lavel: "Phaplu - Kathmandu"
+    },
+    {
+        value: "KUR",
+        lavel: "Kuran-O-Munjan - Kabul"
+    },
+    {
+        value: "DHA",
+        lavel: "King Abdulaziz AB - Riyadh"
+    },
+    {
+        value: "ENI",
+        lavel: "El Nido - Manila"
+    },
+    {
+        value: "DPL",
+        lavel: "Dipolog Airport - Manila"
+    },
+    {
+        value: "HND",
+        lavel: "Haneda Airport - Tokyo"
+    },
+    {
+        value: "SXR",
+        lavel: "Srinagar International Airport - Kolkata"
+    },
+    {
+        value: "JGN",
+        lavel: "Jiayuguan Airport - Shanghai"
+    },
+    {
+        value: "MWD",
+        lavel: "Mianwali - Karachi"
+    },
+    {
+        value: "KYP",
+        lavel: "Kyaukpyu Airport - Rangoon"
+    },
+    {
+        value: "MJU",
+        lavel: "Tampa Padang Airport - Makassar"
+    },
+    {
+        value: "TRV",
+        lavel: "Trivandrum International Airport - Kolkata"
+    },
+    {
+        value: "IKI",
+        lavel: "Iki Airport - Tokyo"
+    },
+    {
+        value: "TKH",
+        lavel: "Nakhon Sawan - Bangkok"
+    },
+    {
+        value: "TEL",
+        lavel: "Telupid - Kuching"
+    },
+    {
+        value: "KEJ",
+        lavel: "Kemerovo Airport - Novokuznetsk"
+    },
+    {
+        value: "DLI",
+        lavel: "Lien Khuong Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "PSJ",
+        lavel: "Poso - Makassar"
+    },
+    {
+        value: "NFF",
+        lavel: "CZ Bus Station - Shanghai"
+    },
+    {
+        value: "MMY",
+        lavel: "Miyako Airport - Tokyo"
+    },
+    {
+        value: "THX",
+        lavel: "Turukhansk Airport - Krasnoyarsk"
+    },
+    {
+        value: "PAA",
+        lavel: "Pa-an - Rangoon"
+    },
+    {
+        value: "RZP",
+        lavel: "CLR Airport - Manila"
+    },
+    {
+        value: "CYX",
+        lavel: "Cherskiy Airport - Srednekolymsk"
+    },
+    {
+        value: "IXK",
+        lavel: "Keshod - Kolkata"
+    },
+    {
+        value: "DNA",
+        lavel: "Kadena AB - Tokyo"
+    },
+    {
+        value: "ZUH",
+        lavel: "Zhuhai Jinwan Airport - Shanghai"
+    },
+    {
+        value: "BTJ",
+        lavel: "Sultan Iskandar Muda International Airport - Jakarta"
+    },
+    {
+        value: "USM",
+        lavel: "Koh Samui Airport - Bangkok"
+    },
+    {
+        value: "HNZ",
+        lavel: "CZ Bus Station - Shanghai"
+    },
+    {
+        value: "SZH",
+        lavel: "Senipah - Makassar"
+    },
+    {
+        value: "SHP",
+        lavel: "Qinhuangdao - Shanghai"
+    },
+    {
+        value: "SSV",
+        lavel: "Siasi - Manila"
+    },
+    {
+        value: "TRA",
+        lavel: "Tarama - Tokyo"
+    },
+    {
+        value: "BCD",
+        lavel: "Bacolod-Silay International Airport - Manila"
+    },
+    {
+        value: "OUI",
+        lavel: "Ban Houei - Vientiane"
+    },
+    {
+        value: "NUA",
+        lavel: "Gregory's Lake - Colombo"
+    },
+    {
+        value: "MKZ",
+        lavel: "Malacca International Airport - Kuala_Lumpur"
+    },
+    {
+        value: "CGP",
+        lavel: "Shah Amanat International Airport - Dhaka"
+    },
+    {
+        value: "MUF",
+        lavel: "Muting - Jayapura"
+    },
+    {
+        value: "ERG",
+        lavel: "Erbogachen Airport - Irkutsk"
+    },
+    {
+        value: "KOD",
+        lavel: "Kotabangun - Makassar"
+    },
+    {
+        value: "OKE",
+        lavel: "Okino Erabu - Tokyo"
+    },
+    {
+        value: "ENH",
+        lavel: "Enshi Airport - Shanghai"
+    },
+    {
+        value: "OTI",
+        lavel: "Pitu - Jayapura"
+    },
+    {
+        value: "HSN",
+        lavel: "Putuoshan Airport - Shanghai"
+    },
+    {
+        value: "TBS",
+        lavel: "Tbilisi International Airport - Tbilisi"
+    },
+    {
+        value: "ULK",
+        lavel: "Lensk Airport - Yakutsk"
+    },
+    {
+        value: "NAF",
+        lavel: "Banaina - Makassar"
+    },
+    {
+        value: "HEB",
+        lavel: "Henzada - Rangoon"
+    },
+    {
+        value: "JGS",
+        lavel: "Ji'An/Jing Gang Shan Airport - Shanghai"
+    },
+    {
+        value: "SDS",
+        lavel: "Sado Shima - Tokyo"
+    },
+    {
+        value: "EAB",
+        lavel: "Abbse - Aden"
+    },
+    {
+        value: "БОЯ",
+        lavel: "Borovaya airfield - Yekaterinburg"
+    },
+    {
+        value: "JED",
+        lavel: "King Abdulaziz International Airport - Riyadh"
+    },
+    {
+        value: "SUI",
+        lavel: "Babusheri - Tbilisi"
+    },
+    {
+        value: "AWZ",
+        lavel: "Ahwaz Airport - Tehran"
+    },
+    {
+        value: "LYG",
+        lavel: "Lianyungang Airport - Shanghai"
+    },
+    {
+        value: "PNK",
+        lavel: "Supadio International Airport - Pontianak"
+    },
+    {
+        value: "AFK",
+        lavel: "Kondavattavan Tank - Colombo"
+    },
+    {
+        value: "GYG",
+        lavel: "Magan - Yakutsk"
+    },
+    {
+        value: "PKU",
+        lavel: "Sultan Syarif Kasim II International Airport - Jakarta"
+    },
+    {
+        value: "SDT",
+        lavel: "Saidu Sharif - Karachi"
+    },
+    {
+        value: "NSK",
+        lavel: "Noril'sk Airport - Krasnoyarsk"
+    },
+    {
+        value: "AGX",
+        lavel: "Agatti Island Airport - Kolkata"
+    },
+    {
+        value: "CCU",
+        lavel: "Netaji Subhas Chandra Bose Airport - Kolkata"
+    },
+    {
+        value: "TAC",
+        lavel: "D. Z. Romualdez Airport - Manila"
+    },
+    {
+        value: "NPO",
+        lavel: "Nangapinoh - Makassar"
+    },
+    {
+        value: "ATQ",
+        lavel: "Sri Guru Ram Dass Jee International Airport - Kolkata"
+    },
+    {
+        value: "XJH",
+        lavel: "Hong Kong Harbour - Hong_Kong"
+    },
+    {
+        value: "RMZ",
+        lavel: "Tobolsk (Remezov) - Yekaterinburg"
+    },
+    {
+        value: "OSS",
+        lavel: "Osh Airport - Bishkek"
+    },
+    {
+        value: "PRU",
+        lavel: "Prome - Rangoon"
+    },
+    {
+        value: "NDC",
+        lavel: "Nanded - Kolkata"
+    },
+    {
+        value: "MZU",
+        lavel: "Muzaffarpur - Kolkata"
+    },
+    {
+        value: "CEB",
+        lavel: "Mactan-Cebu International Airport - Manila"
+    },
+    {
+        value: "RSK",
+        lavel: "Ransiki - Jayapura"
+    },
+    {
+        value: "LAC",
+        lavel: "Layang-Layang Airstrip - Kuching"
+    },
+    {
+        value: "BXM",
+        lavel: "Batom - Jayapura"
+    },
+    {
+        value: "MPD",
+        lavel: "Mirpur Khas - Karachi"
+    },
+    {
+        value: "FEB",
+        lavel: "Sanfebagar - Kathmandu"
+    },
+    {
+        value: "OHS",
+        lavel: "Sohar Airport - Muscat"
+    },
+    {
+        value: "TAK",
+        lavel: "Takamatsu Airport - Tokyo"
+    },
+    {
+        value: "SYM",
+        lavel: "Pu'er Simao Airport - Shanghai"
+    },
+    {
+        value: "KBU",
+        lavel: "Gusti Syamsir Alam Airport - Makassar"
+    },
+    {
+        value: "UOL",
+        lavel: "Buol - Makassar"
+    },
+    {
+        value: "BUK",
+        lavel: "Albuq - Aden"
+    },
+    {
+        value: "MCT",
+        lavel: "Muscat International Airport - Muscat"
+    },
+    {
+        value: "TLK",
+        lavel: "Talakan - Yakutsk"
+    },
+    {
+        value: "TDK",
+        lavel: "Taldy-Kurgan - Almaty"
+    },
+    {
+        value: "OMJ",
+        lavel: "Omura - Tokyo"
+    },
+    {
+        value: "DDU",
+        lavel: "Dadu - Karachi"
+    },
+    {
+        value: "IAQ",
+        lavel: "Bahregan - Tehran"
+    },
+    {
+        value: "PYB",
+        lavel: "Jeypore - Kolkata"
+    },
+    {
+        value: "EWE",
+        lavel: "Ewer - Jayapura"
+    },
+    {
+        value: "LBJ",
+        lavel: "Komodo Airport - Makassar"
+    },
+    {
+        value: "TUG",
+        lavel: "Tuguegarao Airport - Manila"
+    },
+    {
+        value: "AYK",
+        lavel: "Arkalyk - Almaty"
+    },
+    {
+        value: "ASB",
+        lavel: "Ashgabat Airport - Ashgabat"
+    },
+    {
+        value: "SEK",
+        lavel: "Srednekolymsk Airport - Srednekolymsk"
+    },
+    {
+        value: "TAZ",
+        lavel: "Dashoguz - Ashgabat"
+    },
+    {
+        value: "JAI",
+        lavel: "Jaipur Airport - Kolkata"
+    },
+    {
+        value: "CYP",
+        lavel: "Calbayog Airport - Manila"
+    },
+    {
+        value: "ODY",
+        lavel: "Oudomxay Airport - Vientiane"
+    },
+    {
+        value: "SXT",
+        lavel: "Taman Negara - Kuala_Lumpur"
+    },
+    {
+        value: "SDK",
+        lavel: "Sandakan Airport - Kuching"
+    },
+    {
+        value: "LBU",
+        lavel: "Labuan Airport - Kuching"
+    },
+    {
+        value: "NKD",
+        lavel: "Sinak - Jayapura"
+    },
+    {
+        value: "LSU",
+        lavel: "Long Sukang - Kuching"
+    },
+    {
+        value: "MWK",
+        lavel: "Matak - Jakarta"
+    },
+    {
+        value: "SCO",
+        lavel: "Aktau International Airport - Aqtau"
+    },
+    {
+        value: "OBD",
+        lavel: "Obano - Jayapura"
+    },
+    {
+        value: "XEN",
+        lavel: "Xingcheng - Shanghai"
+    },
+    {
+        value: "LSM",
+        lavel: "Lawas - Kuching"
+    },
+    {
+        value: "TTH",
+        lavel: "Thumrait - Muscat"
+    },
+    {
+        value: "UUD",
+        lavel: "Ulan-Ude Airport - Irkutsk"
+    },
+    {
+        value: "KGF",
+        lavel: "Karaganda Airport - Almaty"
+    },
+    {
+        value: "NLI",
+        lavel: "Nikolaevsk-na-Amure - Vladivostok"
+    },
+    {
+        value: "LAO",
+        lavel: "Laoag Airport - Manila"
+    },
+    {
+        value: "HAN",
+        lavel: "Noi Bai International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "ZZO",
+        lavel: "Zonalnoye - Sakhalin"
+    },
+    {
+        value: "EJH",
+        lavel: "Wedjh Airport - Riyadh"
+    },
+    {
+        value: "KKC",
+        lavel: "Khon Kaen Airport - Bangkok"
+    },
+    {
+        value: "RAJ",
+        lavel: "Civil Airport - Kolkata"
+    },
+    {
+        value: "YIE",
+        lavel: "Arxan Yiershi Airport - Shanghai"
+    },
+    {
+        value: "PKZ",
+        lavel: "Pakse Airport - Vientiane"
+    },
+    {
+        value: "DSG",
+        lavel: "Dilasag - Manila"
+    },
+    {
+        value: "MMJ",
+        lavel: "Matsumoto Airport - Tokyo"
+    },
+    {
+        value: "KLO",
+        lavel: "Kalibo International Airport - Manila"
+    },
+    {
+        value: "LTI",
+        lavel: "Altai - Hovd"
+    },
+    {
+        value: "BNQ",
+        lavel: "Baganga - Manila"
+    },
+    {
+        value: "BTW",
+        lavel: "Batu Licin - Makassar"
+    },
+    {
+        value: "MGK",
+        lavel: "Mong Ton - Rangoon"
+    },
+    {
+        value: "HRC",
+        lavel: "Zhairem - Almaty"
+    },
+    {
+        value: "BDO",
+        lavel: "Husein Sastranegara Airport - Jakarta"
+    },
+    {
+        value: "LTK",
+        lavel: "Latakia - Damascus"
+    },
+    {
+        value: "RRK",
+        lavel: "Rourkela - Kolkata"
+    },
+    {
+        value: "MYN",
+        lavel: "Mareb - Aden"
+    },
+    {
+        value: "HGN",
+        lavel: "Mae Hong Son Airport - Bangkok"
+    },
+    {
+        value: "BJG",
+        lavel: "Bolaang - Makassar"
+    },
+    {
+        value: "DIU",
+        lavel: "Diu Airport - Kolkata"
+    },
+    {
+        value: "NYM",
+        lavel: "Nadym Airport - Yekaterinburg"
+    },
+    {
+        value: "SAH",
+        lavel: "Sana'a International Airport - Aden"
+    },
+    {
+        value: "TCX",
+        lavel: "Tabas - Tehran"
+    },
+    {
+        value: "WGC",
+        lavel: "Warangal - Kolkata"
+    },
+    {
+        value: "DNH",
+        lavel: "Dunhuang Airport - Shanghai"
+    },
+    {
+        value: "DAM",
+        lavel: "Damascus International Airport - Damascus"
+    },
+    {
+        value: "AUH",
+        lavel: "Abu Dhabi International Airport - Dubai"
+    },
+    {
+        value: "OKO",
+        lavel: "Yokota AFB - Tokyo"
+    },
+    {
+        value: "USR",
+        lavel: "Ust-Nera Airport - Ust-Nera"
+    },
+    {
+        value: "AAS",
+        lavel: "Apalapsili - Jayapura"
+    },
+    {
+        value: "TGO",
+        lavel: "Tongliao Airport - Shanghai"
+    },
+    {
+        value: "TTJ",
+        lavel: "Tottori Airport - Tokyo"
+    },
+    {
+        value: "IRD",
+        lavel: "Ishurdi - Dhaka"
+    },
+    {
+        value: "AMQ",
+        lavel: "Pattimura Airport - Jayapura"
+    },
+    {
+        value: "TMC",
+        lavel: "Tambolaka Airport - Makassar"
+    },
+    {
+        value: "ADP",
+        lavel: "Ampara - Colombo"
+    },
+    {
+        value: "MRX",
+        lavel: "Mahshahr Airport - Tehran"
+    },
+    {
+        value: "VKG",
+        lavel: "Rach Gia Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "PAY",
+        lavel: "Pamol - Kuching"
+    },
+    {
+        value: "RDN",
+        lavel: "LTS Pulau Redang - Kuala_Lumpur"
+    },
+    {
+        value: "GIL",
+        lavel: "Gilgit Airport - Karachi"
+    },
+    {
+        value: "UKX",
+        lavel: "Ust-Kut Airport - Irkutsk"
+    },
+    {
+        value: "GDX",
+        lavel: "Magadan Airport - Magadan"
+    },
+    {
+        value: "LHI",
+        lavel: "Lereh - Jayapura"
+    },
+    {
+        value: "DBD",
+        lavel: "Dhanbad - Kolkata"
+    },
+    {
+        value: "THR",
+        lavel: "Mehrabad International Airport - Tehran"
+    },
+    {
+        value: "CJL",
+        lavel: "Chitral - Karachi"
+    },
+    {
+        value: "KGU",
+        lavel: "Keningau - Kuching"
+    },
+    {
+        value: "КПМ",
+        lavel: "Keperveyem - Kamchatka"
+    },
+    {
+        value: "TRZ",
+        lavel: "Tiruchirapalli International Airport - Kolkata"
+    },
+    {
+        value: "BJH",
+        lavel: "Bajhang - Kathmandu"
+    },
+    {
+        value: "TBH",
+        lavel: "Romblon - Manila"
+    },
+    {
+        value: "HSC",
+        lavel: "Shaoguan - Shanghai"
+    },
+    {
+        value: "ADH",
+        lavel: "Aldan - Yakutsk"
+    },
+    {
+        value: "KEP",
+        lavel: "Nepalganj Airport - Kathmandu"
+    },
+    {
+        value: "UIH",
+        lavel: "Phu Cat Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "TUK",
+        lavel: "Turbat Airport - Karachi"
+    },
+    {
+        value: "YUA",
+        lavel: "Yuanmou - Shanghai"
+    },
+    {
+        value: "JSR",
+        lavel: "Jessore Airport - Dhaka"
+    },
+    {
+        value: "TUI",
+        lavel: "Turaif Airport - Riyadh"
+    },
+    {
+        value: "CSX",
+        lavel: "Changsha Huanghua Airport - Shanghai"
+    },
+    {
+        value: "ИФА",
+        lavel: "Isfana - Almaty"
+    },
+    {
+        value: "REN",
+        lavel: "Orenburg Airport - Yekaterinburg"
+    },
+    {
+        value: "AOR",
+        lavel: "Sultan Abdul Halim Airport - Kuala_Lumpur"
+    },
+    {
+        value: "PKG",
+        lavel: "Pangkor Airport - Kuala_Lumpur"
+    },
+    {
+        value: "KMG",
+        lavel: "Kunming Changshui International Airport - Shanghai"
+    },
+    {
+        value: "KCI",
+        lavel: "Kon - Jayapura"
+    },
+    {
+        value: "SIW",
+        lavel: "Sibisa - Jakarta"
+    },
+    {
+        value: "FBD",
+        lavel: "Faizabad Airport - Kabul"
+    },
+    {
+        value: "AJF",
+        lavel: "Jouf Airport - Riyadh"
+    },
+    {
+        value: "AKY",
+        lavel: "Civil Airport - Rangoon"
+    },
+    {
+        value: "SKZ",
+        lavel: "Sukkur Airport - Karachi"
+    },
+    {
+        value: "KHY",
+        lavel: "Khoy - Tehran"
+    },
+    {
+        value: "UGA",
+        lavel: "Bulgan - Ulaanbaatar"
+    },
+    {
+        value: "PMM",
+        lavel: "Phanom Sarakham - Bangkok"
+    },
+    {
+        value: "TDX",
+        lavel: "Trat Airport - Bangkok"
+    },
+    {
+        value: "BPN",
+        lavel: "Sultan Aji Muhamad Sulaiman Airport - Makassar"
+    },
+    {
+        value: "TNI",
+        lavel: "Satna - Kolkata"
+    },
+    {
+        value: "KUL",
+        lavel: "Kuala Lumpur International Airport - Kuala_Lumpur"
+    },
+    {
+        value: "PEE",
+        lavel: "Perm International Airport - Yekaterinburg"
+    },
+    {
+        value: "IXT",
+        lavel: "Pasighat - Kolkata"
+    },
+    {
+        value: "BDP",
+        lavel: "Bhadrapur Airport - Kathmandu"
+    },
+    {
+        value: "ITU",
+        lavel: "Iturup - Srednekolymsk"
+    },
+    {
+        value: "VTE",
+        lavel: "Wattay International Airport - Vientiane"
+    },
+    {
+        value: "RAS",
+        lavel: "Rasht Airport - Tehran"
+    },
+    {
+        value: "СЫХ",
+        lavel: "Saskylakh - Yakutsk"
+    },
+    {
+        value: "SYO",
+        lavel: "Shonai Airport - Tokyo"
+    },
+    {
+        value: "PKN",
+        lavel: "Iskandar Airport - Pontianak"
+    },
+    {
+        value: "WOS",
+        lavel: "Wonsan - Pyongyang"
+    },
+    {
+        value: "BJB",
+        lavel: "Bojnord - Tehran"
+    },
+    {
+        value: "HKT",
+        lavel: "Phuket International Airport - Bangkok"
+    },
+    {
+        value: "YNB",
+        lavel: "Yanbu Airport - Riyadh"
+    },
+    {
+        value: "AKA",
+        lavel: "Ankang - Shanghai"
+    },
+    {
+        value: "ISK",
+        lavel: "Gandhinagar Airport - Kolkata"
+    },
+    {
+        value: "ARJ",
+        lavel: "Arso - Jayapura"
+    },
+    {
+        value: "ZYX",
+        lavel: "Yantian Ferry Port - Shanghai"
+    },
+    {
+        value: "OVS",
+        lavel: "Sovetsky Airport - Yekaterinburg"
+    },
+    {
+        value: "LJG",
+        lavel: "Lijiang Airport - Shanghai"
+    },
+    {
+        value: "DJJ",
+        lavel: "Sentani Airport - Jayapura"
+    },
+    {
+        value: "HNA",
+        lavel: "Hanamaki Airport - Tokyo"
+    },
+    {
+        value: "CKT",
+        lavel: "Sarakhs - Tehran"
+    },
+    {
+        value: "SKT",
+        lavel: "Sialkot Airport - Karachi"
+    },
+    {
+        value: "EWI",
+        lavel: "Enarotali - Jayapura"
+    },
+    {
+        value: "BHP",
+        lavel: "Bhojpur - Kathmandu"
+    },
+    {
+        value: "KRL",
+        lavel: "Korla Airport - Shanghai"
+    },
+    {
+        value: "ALA",
+        lavel: "Almaty Airport - Almaty"
+    },
+    {
+        value: "ODN",
+        lavel: "Long Seridan Airport - Kuching"
+    },
+    {
+        value: "GNI",
+        lavel: "Green Island - Taipei"
+    },
+    {
+        value: "AKT",
+        lavel: "Raf Akrotiri - Nicosia"
+    },
+    {
+        value: "BUW",
+        lavel: "Baubau Airport - Makassar"
+    },
+    {
+        value: "JBD",
+        lavel: "CZ Bus Station - Shanghai"
+    },
+    {
+        value: "HOF",
+        lavel: "Al-Ahsa Airport - Riyadh"
+    },
+    {
+        value: "BHW",
+        lavel: "Bhagatanwala Airport - Karachi"
+    },
+    {
+        value: "RGN",
+        lavel: "Yangon International Airport - Rangoon"
+    },
+    {
+        value: "KKX",
+        lavel: "Kikaiga Shima - Tokyo"
+    },
+    {
+        value: "URC",
+        lavel: "Urumqi Diwopu International Airport - Shanghai"
+    },
+    {
+        value: "KAW",
+        lavel: "Kawthaung Airport - Rangoon"
+    },
+    {
+        value: "NGQ",
+        lavel: "Ngari Gunsa/Ali Kunsha - Shanghai"
+    },
+    {
+        value: "AJL",
+        lavel: "Aizawl Airport - Kolkata"
+    },
+    {
+        value: "DYR",
+        lavel: "Anadyr Airport - Anadyr"
+    },
+    {
+        value: "SYJ",
+        lavel: "Sirjan - Tehran"
+    },
+    {
+        value: "TSA",
+        lavel: "Taipei Songshan Airport - Taipei"
+    },
+    {
+        value: "SWA",
+        lavel: "Jieyang Chaoshan Airport - Shanghai"
+    },
+    {
+        value: "MFG",
+        lavel: "Muzaffarabad - Karachi"
+    },
+    {
+        value: "VYI",
+        lavel: "Vilyuisk - Yakutsk"
+    },
+    {
+        value: "FJR",
+        lavel: "Al-Fujairah International - Dubai"
+    },
+    {
+        value: "ZHA",
+        lavel: "Zhanjiang Airport - Shanghai"
+    },
+    {
+        value: "DOH",
+        lavel: "Hamad International Airport - Qatar"
+    },
+    {
+        value: "ZQZ",
+        lavel: "Zhangjiakou Ningyuan Airport - Shanghai"
+    },
+    {
+        value: "IXN",
+        lavel: "Khowai - Kolkata"
+    },
+    {
+        value: "WET",
+        lavel: "Wagethe - Jayapura"
+    },
+    {
+        value: "IRU",
+        lavel: "Iranamadu SPB - Colombo"
+    },
+    {
+        value: "DLZ",
+        lavel: "Dalanzadgad - Ulaanbaatar"
+    },
+    {
+        value: "LBD",
+        lavel: "Khujand Airport - Dushanbe"
+    },
+    {
+        value: "KYY",
+        lavel: "Karamay Bus Station - Shanghai"
+    },
+    {
+        value: "RMQ",
+        lavel: "Taichung International Airport - Taipei"
+    },
+    {
+        value: "OSM",
+        lavel: "Mosul - Baghdad"
+    },
+    {
+        value: "KNO",
+        lavel: "Kuala Namu International Airport - Jakarta"
+    },
+    {
+        value: "HEK",
+        lavel: "Heihe Airport - Shanghai"
+    },
+    {
+        value: "TBZ",
+        lavel: "Tabriz Airport - Tehran"
+    },
+    {
+        value: "YFT",
+        lavel: "Taipa Ferry Port - Macau"
+    },
+    {
+        value: "DBR",
+        lavel: "Darbhanga - Kolkata"
+    },
+    {
+        value: "HMI",
+        lavel: "Hami Airport - Shanghai"
+    },
+    {
+        value: "KHM",
+        lavel: "Khamti - Rangoon"
+    },
+    {
+        value: "DJB",
+        lavel: "Sultan Thaha Airport - Jakarta"
+    },
+    {
+        value: "TFT",
+        lavel: "Taftan - Karachi"
+    },
+    {
+        value: "NLT",
+        lavel: "Nalati Airport - Shanghai"
+    },
+    {
+        value: "PHZ",
+        lavel: "Phi Phi Island - Bangkok"
+    },
+    {
+        value: "PQC",
+        lavel: "Phu Quoc Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "AAV",
+        lavel: "Allah Valley - Manila"
+    },
+    {
+        value: "LLN",
+        lavel: "Kelila - Jayapura"
+    },
+    {
+        value: "SGA",
+        lavel: "Sheghnan - Kabul"
+    },
+    {
+        value: "JZH",
+        lavel: "Jiuzhai Huanglong Airport - Shanghai"
+    },
+    {
+        value: "EYK",
+        lavel: "Beloyarsky Airport - Yekaterinburg"
+    },
+    {
+        value: "EIE",
+        lavel: "Eniseysk - Krasnoyarsk"
+    },
+    {
+        value: "KDI",
+        lavel: "Haluoleo Airport - Makassar"
+    },
+    {
+        value: "BUZ",
+        lavel: "Bushehr Airport - Tehran"
+    },
+    {
+        value: "ACX",
+        lavel: "Xingyi Airport - Shanghai"
+    },
+    {
+        value: "DHF",
+        lavel: "Al Dhafra Military Airport - Dubai"
+    },
+    {
+        value: "IKS",
+        lavel: "Tiksi Airport - Yakutsk"
+    },
+    {
+        value: "RAE",
+        lavel: "Arar Airport - Riyadh"
+    },
+    {
+        value: "KYZ",
+        lavel: "Kyzyl Airport - Krasnoyarsk"
+    },
+    {
+        value: "HZH",
+        lavel: "Liping Airport - Shanghai"
+    },
+    {
+        value: "DBU",
+        lavel: "Dambulu Oya Tank - Colombo"
+    },
+    {
+        value: "TKR",
+        lavel: "Thakurgaon - Dhaka"
+    },
+    {
+        value: "KBX",
+        lavel: "Kambuaya - Jayapura"
+    },
+    {
+        value: "UGU",
+        lavel: "Zugapa - Jayapura"
+    },
+    {
+        value: "AYY",
+        lavel: "Arugam Bay SPB - Colombo"
+    },
+    {
+        value: "SLL",
+        lavel: "Salalah International Airport - Muscat"
+    },
+    {
+        value: "CAH",
+        lavel: "Kamau - Ho_Chi_Minh"
+    },
+    {
+        value: "MIG",
+        lavel: "Mianyang Nanjiao Airport - Shanghai"
+    },
+    {
+        value: "AUT",
+        lavel: "Atauro - Makassar"
+    },
+    {
+        value: "CGY",
+        lavel: "Laguindingan International Airport - Manila"
+    },
+    {
+        value: "SSE",
+        lavel: "Sholapur - Kolkata"
+    },
+    {
+        value: "DVO",
+        lavel: "Francisco Bangoy Intl Airport - Manila"
+    },
+    {
+        value: "NOJ",
+        lavel: "Nojabrxsk Airport - Yekaterinburg"
+    },
+    {
+        value: "PEW",
+        lavel: "Bacha Khan International Airport - Karachi"
+    },
+    {
+        value: "RLK",
+        lavel: "Bayannur Tianjitai Airport - Shanghai"
+    },
+    {
+        value: "PUS",
+        lavel: "Gimhae International Airport - Seoul"
+    },
+    {
+        value: "SYE",
+        lavel: "Sadah - Aden"
+    },
+    {
+        value: "NNG",
+        lavel: "Nanning Airport - Shanghai"
+    },
+    {
+        value: "PIF",
+        lavel: "Pingtung - Taipei"
+    },
+    {
+        value: "YEC",
+        lavel: "Yecheon - Seoul"
+    },
+    {
+        value: "CGM",
+        lavel: "Mambajao - Manila"
+    },
+    {
+        value: "KBV",
+        lavel: "Krabi Airport - Bangkok"
+    },
+    {
+        value: "BIK",
+        lavel: "Mokmer Airport - Jayapura"
+    },
+    {
+        value: "SIN",
+        lavel: "Changi International Airport - Singapore"
+    },
+    {
+        value: "XNN",
+        lavel: "Xining Airport - Shanghai"
+    },
+    {
+        value: "DWC",
+        lavel: "Dubai World Central - Al Maktoum International Airport - Dubai"
+    },
+    {
+        value: "YUS",
+        lavel: "Yushu Batang Airport - Shanghai"
+    },
+    {
+        value: "BKI",
+        lavel: "Kota Kinabalu International Airport - Kuching"
+    },
+    {
+        value: "YLN",
+        lavel: "Yilan - Shanghai"
+    },
+    {
+        value: "WBA",
+        lavel: "Wahai - Jayapura"
+    },
+    {
+        value: "JLR",
+        lavel: "Jabalpur Airport - Kolkata"
+    },
+    {
+        value: "WHU",
+        lavel: "Wuhu - Shanghai"
+    },
+    {
+        value: "IWJ",
+        lavel: "Hagi-Iwami Airport - Tokyo"
+    },
+    {
+        value: "HSA",
+        lavel: "Hazret Sultan - Almaty"
+    },
+    {
+        value: "SGZ",
+        lavel: "Songkhla - Bangkok"
+    },
+    {
+        value: "ZXT",
+        lavel: "Heydar Aliyev - Baku"
+    },
+    {
+        value: "UTP",
+        lavel: "Utapao Airport - Bangkok"
+    },
+    {
+        value: "MFM",
+        lavel: "Macau International Airport - Macau"
+    },
+    {
+        value: "SMT",
+        lavel: "Sun Moon Lake - Taipei"
+    },
+    {
+        value: "COH",
+        lavel: "Cooch Behar - Kolkata"
+    },
+    {
+        value: "PAB",
+        lavel: "Bilaspur - Kolkata"
+    },
+    {
+        value: "TGC",
+        lavel: "Tanjung Manis Airport - Kuching"
+    },
+    {
+        value: "TII",
+        lavel: "Tirinkot - Kabul"
+    },
+    {
+        value: "RTI",
+        lavel: "Roti - Makassar"
+    },
+    {
+        value: "LZY",
+        lavel: "Nyingchi Mainling Airport - Shanghai"
+    },
+    {
+        value: "MUR",
+        lavel: "Marudi Airport - Kuching"
+    },
+    {
+        value: "WUS",
+        lavel: "Wuyishan Airport - Shanghai"
+    },
+    {
+        value: "XYE",
+        lavel: "Ye - Rangoon"
+    },
+    {
+        value: "CCJ",
+        lavel: "Calicut International Airport - Kolkata"
+    },
+    {
+        value: "GZI",
+        lavel: "Ghazni - Kabul"
+    },
+    {
+        value: "BKK",
+        lavel: "Suvarnabhumi Airport - Bangkok"
+    },
+    {
+        value: "RPN",
+        lavel: "Rosh Pina - Jerusalem"
+    },
+    {
+        value: "LAH",
+        lavel: "Labuha - Jayapura"
+    },
+    {
+        value: "PSI",
+        lavel: "Pasni - Karachi"
+    },
+    {
+        value: "SHS",
+        lavel: "Shashi - Shanghai"
+    },
+    {
+        value: "SBQ",
+        lavel: "Sibi - Karachi"
+    },
+    {
+        value: "SUP",
+        lavel: "Trunojoyo - Jakarta"
+    },
+    {
+        value: "KSW",
+        lavel: "Kiryat Shmona - Jerusalem"
+    },
+    {
+        value: "NRE",
+        lavel: "Namrole - Jayapura"
+    },
+    {
+        value: "TKT",
+        lavel: "Tak - Bangkok"
+    },
+    {
+        value: "NHA",
+        lavel: "Nha Trang - Ho_Chi_Minh"
+    },
+    {
+        value: "LSW",
+        lavel: "Malikus Saleh Airport - Jakarta"
+    },
+    {
+        value: "MWV",
+        lavel: "Mundulkiri - Phnom_Penh"
+    },
+    {
+        value: "ZBR",
+        lavel: "Chah-Bahar Airport - Tehran"
+    },
+    {
+        value: "AOG",
+        lavel: "Anshan Teng'ao Airport - Shanghai"
+    },
+    {
+        value: "KKJ",
+        lavel: "Kitakyushu Airport - Tokyo"
+    },
+    {
+        value: "MWQ",
+        lavel: "Magwe - Rangoon"
+    },
+    {
+        value: "NAO",
+        lavel: "Nanchong Airport - Shanghai"
+    },
+    {
+        value: "ZKL",
+        lavel: "Steenkool - Jayapura"
+    },
+    {
+        value: "SGS",
+        lavel: "Sanga Sanga - Manila"
+    },
+    {
+        value: "KUZ",
+        lavel: "Gunsan Airbase - Seoul"
+    },
+    {
+        value: "TGB",
+        lavel: "Tagbita - Manila"
+    },
+    {
+        value: "MAQ",
+        lavel: "Mae Sot Airport - Bangkok"
+    },
+    {
+        value: "GIU",
+        lavel: "Sigiriya Slaf Base - Colombo"
+    },
+    {
+        value: "ZVJ",
+        lavel: "EK Bus Station - Dubai"
+    },
+    {
+        value: "OGU",
+        lavel: "Ordu Giresun Airport - Istanbul"
+    },
+    {
+        value: "KRO",
+        lavel: "Kurgan Airport - Yekaterinburg"
+    },
+    {
+        value: "FOO",
+        lavel: "Numfoor - Jayapura"
+    },
+    {
+        value: "ELQ",
+        lavel: "Prince Nayef bin Abdulaziz Regional Airport - Riyadh"
+    },
+    {
+        value: "LFM",
+        lavel: "Lamerd Airport - Tehran"
+    },
+    {
+        value: "XMG",
+        lavel: "Mahendranagar - Kathmandu"
+    },
+    {
+        value: "BFV",
+        lavel: "Buri Ram Airport - Bangkok"
+    },
+    {
+        value: "CKH",
+        lavel: "Chokurdah Airport - Srednekolymsk"
+    },
+    {
+        value: "MED",
+        lavel: "Prince Mohammad Bin Abdulaziz International Airport - Riyadh"
+    },
+    {
+        value: "XBJ",
+        lavel: "Birjand Airport - Tehran"
+    },
+    {
+        value: "OEC",
+        lavel: "Ocussi - Dili"
+    },
+    {
+        value: "TFU",
+        lavel: "Chengdu Tianfu - Harbin"
+    },
+    {
+        value: "HTM",
+        lavel: "Khatgal - Ulaanbaatar"
+    },
+    {
+        value: "BSR",
+        lavel: "Basra International Airport - Baghdad"
+    },
+    {
+        value: "TYN",
+        lavel: "Taiyuan Wusu International Airport - Shanghai"
+    },
+    {
+        value: "BST",
+        lavel: "Bost - Kabul"
+    },
+    {
+        value: "MYE",
+        lavel: "Miyake Jima - Tokyo"
+    },
+    {
+        value: "PEN",
+        lavel: "Penang International Airport - Kuala_Lumpur"
+    },
+    {
+        value: "SDG",
+        lavel: "Sanandaj Airport - Tehran"
+    },
+    {
+        value: "KYE",
+        lavel: "Kleyate - Beirut"
+    },
+    {
+        value: "CEK",
+        lavel: "Chelyabinsk International Airport - Yekaterinburg"
+    },
+    {
+        value: "GOQ",
+        lavel: "Golmud Airport - Shanghai"
+    },
+    {
+        value: "VGG",
+        lavel: "Vangrieng - Vientiane"
+    },
+    {
+        value: "UGT",
+        lavel: "Umnugobitour - Ulaanbaatar"
+    },
+    {
+        value: "RUG",
+        lavel: "Rugao - Shanghai"
+    },
+    {
+        value: "DMU",
+        lavel: "Dimapur Airport - Kolkata"
+    },
+    {
+        value: "WGP",
+        lavel: "Waingapu Airport - Makassar"
+    },
+    {
+        value: "KGP",
+        lavel: "Kogalym International Airport - Yekaterinburg"
+    },
+    {
+        value: "SGL",
+        lavel: "Sangley Point NAS - Manila"
+    },
+    {
+        value: "LKO",
+        lavel: "Chaudhary Charan Singh International Airport - Kolkata"
+    },
+    {
+        value: "SIA",
+        lavel: "Xiguan - Shanghai"
+    },
+    {
+        value: "LBW",
+        lavel: "Long Bawan - Makassar"
+    },
+    {
+        value: "SUB",
+        lavel: "Juanda International Airport - Jakarta"
+    },
+    {
+        value: "KBR",
+        lavel: "Sultan Ismail Petra Airport - Kuala_Lumpur"
+    },
+    {
+        value: "TMI",
+        lavel: "Tumling Tar Airport - Kathmandu"
+    },
+    {
+        value: "PPS",
+        lavel: "Puerto Princesa International Airport - Manila"
+    },
+    {
+        value: "MNL",
+        lavel: "Ninoy Aquino International Airport - Manila"
+    },
+    {
+        value: "GYU",
+        lavel: "Guyuan Liupanshan Airport - Shanghai"
+    },
+    {
+        value: "BEK",
+        lavel: "Bareli - Kolkata"
+    },
+    {
+        value: "LRG",
+        lavel: "Lora Lai - Karachi"
+    },
+    {
+        value: "AFS",
+        lavel: "Zarafshan - Samarkand"
+    },
+    {
+        value: "RAZ",
+        lavel: "Rawala Kot - Karachi"
+    },
+    {
+        value: "BPE",
+        lavel: "Qinhuangdao Beidaihe Airport - Shanghai"
+    },
+    {
+        value: "KOV",
+        lavel: "Kokshetau Airport - Almaty"
+    },
+    {
+        value: "SHJ",
+        lavel: "Sharjah International Airport - Dubai"
+    },
+    {
+        value: "SOR",
+        lavel: "Al Thaurah - Damascus"
+    },
+    {
+        value: "MPC",
+        lavel: "Muko-Muko - Jakarta"
+    },
+    {
+        value: "TOY",
+        lavel: "Toyama Airport - Tokyo"
+    },
+    {
+        value: "URN",
+        lavel: "Urgoon - Kabul"
+    },
+    {
+        value: "KHD",
+        lavel: "Khorramabad - Tehran"
+    },
+    {
+        value: "OHT",
+        lavel: "Kohat - Karachi"
+    },
+    {
+        value: "KEI",
+        lavel: "Kepi - Jayapura"
+    },
+    {
+        value: "FYG",
+        lavel: "Fuyong Ferry Port - Shanghai"
+    },
+    {
+        value: "RKZ",
+        lavel: "Peace - Shanghai"
+    },
+    {
+        value: "GTK",
+        lavel: "Sungei Tekai - Kuala_Lumpur"
+    },
+    {
+        value: "PNJ",
+        lavel: "Peng Lai/Sha He Kou - Shanghai"
+    },
+    {
+        value: "BJK",
+        lavel: "Benjina - Jayapura"
+    },
+    {
+        value: "IRM",
+        lavel: "Igrim - Yekaterinburg"
+    },
+    {
+        value: "TJS",
+        lavel: "Tanjung Selor - Makassar"
+    },
+    {
+        value: "JGD",
+        lavel: "Jiagedaqi Airport - Shanghai"
+    },
+    {
+        value: "CJM",
+        lavel: "Chumphon Airport - Bangkok"
+    },
+    {
+        value: "MXZ",
+        lavel: "Mei Xian Airport - Shanghai"
+    },
+    {
+        value: "HIJ",
+        lavel: "Hiroshima Airport - Tokyo"
+    },
+    {
+        value: "SQJ",
+        lavel: "Sanming - Shanghai"
+    },
+    {
+        value: "SZB",
+        lavel: "Sultan Abdul Aziz Shah Airport - Kuala_Lumpur"
+    },
+    {
+        value: "CYI",
+        lavel: "Chiayi Airport - Taipei"
+    },
+    {
+        value: "MOE",
+        lavel: "Momeik - Rangoon"
+    },
+    {
+        value: "URZ",
+        lavel: "Uruzgan - Kabul"
+    },
+    {
+        value: "TRR",
+        lavel: "China Bay - Colombo"
+    },
+    {
+        value: "YTY",
+        lavel: "Yangzhou Taizhou Airport - Shanghai"
+    },
+    {
+        value: "JIR",
+        lavel: "Jiri - Kathmandu"
+    },
+    {
+        value: "LUM",
+        lavel: "Dehong Mangshi Airport - Shanghai"
+    },
+    {
+        value: "TJG",
+        lavel: "Tanjung Warukin - Jakarta"
+    },
+    {
+        value: "KHI",
+        lavel: "Jinnah International Airport - Karachi"
+    },
+    {
+        value: "RNM",
+        lavel: "Qarn Alam - Muscat"
+    },
+    {
+        value: "PBH",
+        lavel: "Paro Airport - Thimphu"
+    },
+    {
+        value: "RPR",
+        lavel: "Swami Vivekananda Airport - Kolkata"
+    },
+    {
+        value: "NYT",
+        lavel: "Nay Pyi Taw Airport - Rangoon"
+    },
+    {
+        value: "LWN",
+        lavel: "Leninakan Airport - Yerevan"
+    },
+    {
+        value: "DAP",
+        lavel: "Darchula - Kathmandu"
+    },
+    {
+        value: "TPG",
+        lavel: "Taiping - Kuala_Lumpur"
+    },
+    {
+        value: "TSN",
+        lavel: "Tianjin Binhai International Airport - Shanghai"
+    },
+    {
+        value: "VHV",
+        lavel: "Verhnevilyuisk - Yakutsk"
+    },
+    {
+        value: "TPJ",
+        lavel: "Taplejung Suketar - Kathmandu"
+    },
+    {
+        value: "KMT",
+        lavel: "Kampot - Phnom_Penh"
+    },
+    {
+        value: "RUM",
+        lavel: "Rumjatar - Kathmandu"
+    },
+    {
+        value: "KHN",
+        lavel: "Nanchang Changbei International Airport - Shanghai"
+    },
+    {
+        value: "LKH",
+        lavel: "Long Akah - Kuching"
+    },
+    {
+        value: "FUG",
+        lavel: "Fuyang Airport - Shanghai"
+    },
+    {
+        value: "PKK",
+        lavel: "Pakokku - Rangoon"
+    },
+    {
+        value: "TLV",
+        lavel: "Ben Gurion International Airport - Jerusalem"
+    },
+    {
+        value: "RHP",
+        lavel: "Ramechhap - Kathmandu"
+    },
+    {
+        value: "BGL",
+        lavel: "Baglung - Kathmandu"
+    },
+    {
+        value: "GTB",
+        lavel: "Genting - Kuala_Lumpur"
+    },
+    {
+        value: "MEQ",
+        lavel: "Seunagan - Jakarta"
+    },
+    {
+        value: "ULO",
+        lavel: "Ulaangom - Hovd"
+    },
+    {
+        value: "AAW",
+        lavel: "Abbottabad - Karachi"
+    },
+    {
+        value: "OKT",
+        lavel: "Oktiabrskij - Yekaterinburg"
+    },
+    {
+        value: "DAH",
+        lavel: "Dathina - Aden"
+    },
+    {
+        value: "IHA",
+        lavel: "Niihama - Tokyo"
+    },
+    {
+        value: "JGA",
+        lavel: "Govardhanpur Airport - Kolkata"
+    },
+    {
+        value: "MPH",
+        lavel: "Boracay Airport - Manila"
+    },
+    {
+        value: "IXZ",
+        lavel: "Port Blair Airport - Kolkata"
+    },
+    {
+        value: "VRC",
+        lavel: "Virac Airport - Manila"
+    },
+    {
+        value: "PLX",
+        lavel: "Semipalatinsk Airport - Almaty"
+    },
+    {
+        value: "PAG",
+        lavel: "Pagadian Airport - Manila"
+    },
+    {
+        value: "LUH",
+        lavel: "Ludhiana Sahnewal Airport - Kolkata"
+    },
+    {
+        value: "MPK",
+        lavel: "Mokpo - Seoul"
+    },
+    {
+        value: "MNA",
+        lavel: "Melangguane - Makassar"
+    },
+    {
+        value: "VGA",
+        lavel: "Vijayawada Airport - Kolkata"
+    },
+    {
+        value: "KUA",
+        lavel: "Sultan Haji Ahmad Shah Airport - Kuala_Lumpur"
+    },
+    {
+        value: "TIO",
+        lavel: "Tilin - Rangoon"
+    },
+    {
+        value: "BYV",
+        lavel: "Beira Lake SPB - Colombo"
+    },
+    {
+        value: "WNP",
+        lavel: "Naga Airport - Manila"
+    },
+    {
+        value: "NAH",
+        lavel: "Naha - Makassar"
+    },
+    {
+        value: "HIW",
+        lavel: "Hiroshima West - Tokyo"
+    },
+    {
+        value: "ОЛН",
+        lavel: "Olenyok - Yakutsk"
+    },
+    {
+        value: "KCK",
+        lavel: "Kirensk Airport - Irkutsk"
+    },
+    {
+        value: "ODO",
+        lavel: "Bodaybo Airport - Irkutsk"
+    },
+    {
+        value: "KXK",
+        lavel: "Khurba Airport - Vladivostok"
+    },
+    {
+        value: "LYK",
+        lavel: "Lunyuk - Makassar"
+    },
+    {
+        value: "KMC",
+        lavel: "King Khalid Military - Riyadh"
+    },
+    {
+        value: "TIM",
+        lavel: "Timika Airport - Jayapura"
+    },
+    {
+        value: "IKU",
+        lavel: "Issyk-Kul International Airport - Bishkek"
+    },
+    {
+        value: "HJT",
+        lavel: "Khujirt - Ulaanbaatar"
+    },
+    {
+        value: "XIY",
+        lavel: "Xianyang International Airport - Shanghai"
+    },
+    {
+        value: "XVL",
+        lavel: "Vinh Long - Ho_Chi_Minh"
+    },
+    {
+        value: "DDD",
+        lavel: "Dhaalu Airport - Karachi"
+    },
+    {
+        value: "KOJ",
+        lavel: "Kagoshima Airport - Tokyo"
+    },
+    {
+        value: "ADU",
+        lavel: "Ardabil Airport - Tehran"
+    },
+    {
+        value: "OKJ",
+        lavel: "Okayama Airport - Tokyo"
+    },
+    {
+        value: "SHW",
+        lavel: "Sharurah Airport - Riyadh"
+    },
+    {
+        value: "DEP",
+        lavel: "Deparizo - Kolkata"
+    },
+    {
+        value: "OSN",
+        lavel: "Osan AB - Seoul"
+    },
+    {
+        value: "HOX",
+        lavel: "Homalin Airport - Rangoon"
+    },
+    {
+        value: "KUD",
+        lavel: "Kudat Airport - Kuching"
+    },
+    {
+        value: "AEG",
+        lavel: "Aek Godang - Jakarta"
+    },
+    {
+        value: "DRH",
+        lavel: "Dabra - Jayapura"
+    },
+    {
+        value: "LYA",
+        lavel: "Luoyang Beijiao Airport - Shanghai"
+    },
+    {
+        value: "BAO",
+        lavel: "Udorn - Bangkok"
+    },
+    {
+        value: "VIQ",
+        lavel: "Viqueque - Dili"
+    },
+    {
+        value: "LBX",
+        lavel: "Lubang - Manila"
+    },
+    {
+        value: "BHU",
+        lavel: "Bhavnagar Airport - Kolkata"
+    },
+    {
+        value: "RNJ",
+        lavel: "Yoron Airport - Tokyo"
+    },
+    {
+        value: "SGC",
+        lavel: "Surgut Airport - Yekaterinburg"
+    },
+    {
+        value: "AEB",
+        lavel: "Youjiang - Shanghai"
+    },
+    {
+        value: "XNB",
+        lavel: "Chelsea Twr EY Bus Station - Dubai"
+    },
+    {
+        value: "HHP",
+        lavel: "H K Heliport - Hong_Kong"
+    },
+    {
+        value: "SWV",
+        lavel: "Severo-Evensk Airport - Magadan"
+    },
+    {
+        value: "SYW",
+        lavel: "Sehwen Sharif - Karachi"
+    },
+    {
+        value: "TXG",
+        lavel: "Taichung - Taipei"
+    },
+    {
+        value: "DQA",
+        lavel: "Daqing Shi Airport - Shanghai"
+    },
+    {
+        value: "YNT",
+        lavel: "Yantai Laishan International Airport - Shanghai"
+    },
+    {
+        value: "KTI",
+        lavel: "Kratie - Phnom_Penh"
+    },
+    {
+        value: "MKM",
+        lavel: "Mukah Airport - Kuching"
+    },
+    {
+        value: "ISB",
+        lavel: "Islamabad International Airport - Karachi"
+    },
+    {
+        value: "HFA",
+        lavel: "Haifa Airport - Jerusalem"
+    },
+    {
+        value: "BDN",
+        lavel: "Talhar - Karachi"
+    },
+    {
+        value: "KAM",
+        lavel: "Kamaran Island - Aden"
+    },
+    {
+        value: "ADJ",
+        lavel: "Marka International Airport - Amman"
+    },
+    {
+        value: "TAX",
+        lavel: "Taliabu - Jayapura"
+    },
+    {
+        value: "JCN",
+        lavel: "Incheon Heliport - Seoul"
+    },
+    {
+        value: "CHB",
+        lavel: "Chilas - Karachi"
+    },
+    {
+        value: "MYT",
+        lavel: "Myitkyina Airport - Rangoon"
+    },
+    {
+        value: "ENE",
+        lavel: "H. Hasan Aroeboesman Airport - Makassar"
+    },
+    {
+        value: "GSM",
+        lavel: "Dayrestan Airport - Tehran"
+    },
+    {
+        value: "EUQ",
+        lavel: "Evelio Javier - Manila"
+    },
+    {
+        value: "XUZ",
+        lavel: "Xuzhou Guanyin Airport - Shanghai"
+    },
+    {
+        value: "BCX",
+        lavel: "Beloreck - Yekaterinburg"
+    },
+    {
+        value: "MBT",
+        lavel: "Masbate Airport - Manila"
+    },
+    {
+        value: "ULN",
+        lavel: "Chinggis Khaan International Airport - Ulaanbaatar"
+    },
+    {
+        value: "BSD",
+        lavel: "Baoshan Airport - Shanghai"
+    },
+    {
+        value: "LYI",
+        lavel: "Linyi Airport - Shanghai"
+    },
+    {
+        value: "DZU",
+        lavel: "Dazu - Shanghai"
+    },
+    {
+        value: "REW",
+        lavel: "Rewa - Kolkata"
+    },
+    {
+        value: "RAH",
+        lavel: "Rafha Airport - Riyadh"
+    },
+    {
+        value: "WUH",
+        lavel: "Wuhan Tianhe International Airport - Shanghai"
+    },
+    {
+        value: "SLY",
+        lavel: "Salekhard Airport - Yekaterinburg"
+    },
+    {
+        value: "KMQ",
+        lavel: "Komatsu Airport - Tokyo"
+    },
+    {
+        value: "TSY",
+        lavel: "Tasikmalaya - Jakarta"
+    },
+    {
+        value: "PKX",
+        lavel: "Beijing Daxing International Airport - Shanghai"
+    },
+    {
+        value: "BJU",
+        lavel: "Bajura Airport - Kathmandu"
+    },
+    {
+        value: "NBX",
+        lavel: "Nabire - Jayapura"
+    },
+    {
+        value: "CGD",
+        lavel: "Changde Airport - Shanghai"
+    },
+    {
+        value: "GNS",
+        lavel: "Gunungsitoli Airport - Jakarta"
+    },
+    {
+        value: "BDJ",
+        lavel: "Syamsudin Noor International Airport - Makassar"
+    },
+    {
+        value: "HOE",
+        lavel: "Houeisay - Vientiane"
+    },
+    {
+        value: "SYS",
+        lavel: "Saskylakh Airport - Yakutsk"
+    },
+    {
+        value: "AAT",
+        lavel: "Altay Airport - Shanghai"
+    },
+    {
+        value: "IXJ",
+        lavel: "Satwari Airport - Kolkata"
+    },
+    {
+        value: "NGS",
+        lavel: "Nagasaki Airport - Tokyo"
+    },
+    {
+        value: "SUY",
+        lavel: "Suntar - Yakutsk"
+    },
+    {
+        value: "CXR",
+        lavel: "Cam Ranh International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "JGB",
+        lavel: "Jagdalpur - Kolkata"
+    },
+    {
+        value: "ACZ",
+        lavel: "Zabol Airport - Tehran"
+    },
+    {
+        value: "EKB",
+        lavel: "Ekibastuz - Almaty"
+    },
+    {
+        value: "DGT",
+        lavel: "Dumaguete Airport - Manila"
+    },
+    {
+        value: "TST",
+        lavel: "Trang Airport - Bangkok"
+    },
+    {
+        value: "BSO",
+        lavel: "Basco Airport - Manila"
+    },
+    {
+        value: "GLX",
+        lavel: "Galela - Jayapura"
+    },
+    {
+        value: "YNY",
+        lavel: "Yangyang Airport - Seoul"
+    },
+    {
+        value: "QOR",
+        lavel: "Ordu - Istanbul"
+    },
+    {
+        value: "THS",
+        lavel: "Sukhothai Airport - Bangkok"
+    },
+    {
+        value: "SMQ",
+        lavel: "H. Asan Airport - Pontianak"
+    },
+    {
+        value: "WEC",
+        lavel: "Wenchang Railway Station - Shanghai"
+    },
+    {
+        value: "IEJ",
+        lavel: "Iejima - Tokyo"
+    },
+    {
+        value: "HTA",
+        lavel: "Chita Airport - Chita"
+    },
+    {
+        value: "SXI",
+        lavel: "Sirri Island - Tehran"
+    },
+    {
+        value: "KBF",
+        lavel: "Karubaga - Jayapura"
+    },
+    {
+        value: "WMX",
+        lavel: "Wamena Airport - Jayapura"
+    },
+    {
+        value: "EIY",
+        lavel: "Ein Yahav - Jerusalem"
+    },
+    {
+        value: "GAY",
+        lavel: "Gaya Airport - Kolkata"
+    },
+    {
+        value: "RJN",
+        lavel: "Rafsanjan - Tehran"
+    },
+    {
+        value: "TPK",
+        lavel: "Tapaktuan - Jakarta"
+    },
+    {
+        value: "IPE",
+        lavel: "Ipil - Manila"
+    },
+    {
+        value: "DYU",
+        lavel: "Dushanbe Airport - Dushanbe"
+    },
+    {
+        value: "CUJ",
+        lavel: "Culion - Manila"
+    },
+    {
+        value: "IXQ",
+        lavel: "Kamalpur - Kolkata"
+    },
+    {
+        value: "JUZ",
+        lavel: "Quzhou Airport - Shanghai"
+    },
+    {
+        value: "KUT",
+        lavel: "Kutaisi International Airport - Tbilisi"
+    },
+    {
+        value: "IXV",
+        lavel: "Along - Kolkata"
+    },
+    {
+        value: "LII",
+        lavel: "Mulia - Jayapura"
+    },
+    {
+        value: "LWA",
+        lavel: "Lwbak - Manila"
+    },
+    {
+        value: "SBW",
+        lavel: "Sibu Airport - Kuching"
+    },
+    {
+        value: "KZO",
+        lavel: "Kzyl-Orda Airport - Qyzylorda"
+    },
+    {
+        value: "SQN",
+        lavel: "Sanana - Jayapura"
+    },
+    {
+        value: "UGC",
+        lavel: "Urgench Airport - Samarkand"
+    },
+    {
+        value: "DAX",
+        lavel: "Dazhou Heshi Airport - Shanghai"
+    },
+    {
+        value: "MEP",
+        lavel: "Mersing - Kuala_Lumpur"
+    },
+    {
+        value: "KUH",
+        lavel: "Kushiro Airport - Tokyo"
+    },
+    {
+        value: "SWQ",
+        lavel: "Sultan Muhammad Kaharuddin III Airport - Makassar"
+    },
+    {
+        value: "LTU",
+        lavel: "Latur - Kolkata"
+    },
+    {
+        value: "BDH",
+        lavel: "Bandar Lengeh - Tehran"
+    },
+    {
+        value: "PPU",
+        lavel: "Papun - Rangoon"
+    },
+    {
+        value: "SNO",
+        lavel: "Sakon Nakhon Airport - Bangkok"
+    },
+    {
+        value: "TXN",
+        lavel: "Huangshan Tunxi International Airport - Shanghai"
+    },
+    {
+        value: "CZX",
+        lavel: "Changzhou Airport - Shanghai"
+    },
+    {
+        value: "BHR",
+        lavel: "Bharatpur Airport - Kathmandu"
+    },
+    {
+        value: "RTC",
+        lavel: "Ratnagiri - Kolkata"
+    },
+    {
+        value: "XAY",
+        lavel: "Xayabury - Vientiane"
+    },
+    {
+        value: "MYP",
+        lavel: "Mary Airport - Ashgabat"
+    },
+    {
+        value: "GBT",
+        lavel: "Gorgon Airport - Tehran"
+    },
+    {
+        value: "KCD",
+        lavel: "Kamur - Jayapura"
+    },
+    {
+        value: "IAA",
+        lavel: "Igarka Airport - Krasnoyarsk"
+    },
+    {
+        value: "URT",
+        lavel: "Surat Thani Airport - Bangkok"
+    },
+    {
+        value: "LIW",
+        lavel: "Loikaw Airport - Rangoon"
+    },
+    {
+        value: "ZWR",
+        lavel: "Kota Kinabalu Port - Kuching"
+    },
+    {
+        value: "AKU",
+        lavel: "Aksu Airport - Shanghai"
+    },
+    {
+        value: "RXS",
+        lavel: "Roxas City Airport - Manila"
+    },
+    {
+        value: "LGL",
+        lavel: "Long Lellang - Kuching"
+    },
+    {
+        value: "RUP",
+        lavel: "Rupsi - Kolkata"
+    },
+    {
+        value: "XZM",
+        lavel: "Macau Ferry - Macau"
+    },
+    {
+        value: "UUN",
+        lavel: "Baruun-Urt - Choibalsan"
+    },
+    {
+        value: "YCU",
+        lavel: "Yuncheng Airport - Shanghai"
+    },
+    {
+        value: "WAR",
+        lavel: "Waris - Jayapura"
+    },
+    {
+        value: "DBA",
+        lavel: "Dalbandin - Karachi"
+    },
+    {
+        value: "SUL",
+        lavel: "Sui - Karachi"
+    },
+    {
+        value: "WJU",
+        lavel: "Wonju Airport - Seoul"
+    },
+    {
+        value: "KTU",
+        lavel: "Kota - Kolkata"
+    },
+    {
+        value: "MSH",
+        lavel: "Masirah - Muscat"
+    },
+    {
+        value: "UFA",
+        lavel: "Ufa International Airport - Yekaterinburg"
+    },
+    {
+        value: "MYQ",
+        lavel: "Mysore - Kolkata"
+    },
+    {
+        value: "SQG",
+        lavel: "Sorong Airport - Makassar"
+    },
+    {
+        value: "TLY",
+        lavel: "Plastun Airport - Vladivostok"
+    },
+    {
+        value: "OGN",
+        lavel: "Yonaguni Jima - Tokyo"
+    },
+    {
+        value: "RAQ",
+        lavel: "Sugimanuru - Makassar"
+    },
+    {
+        value: "DAD",
+        lavel: "Da Nang International Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "BWN",
+        lavel: "Brunei International Airport - Brunei"
+    },
+    {
+        value: "RSU",
+        lavel: "Yeosu Airport - Seoul"
+    },
+    {
+        value: "SGQ",
+        lavel: "Sanggata - Makassar"
+    },
+    {
+        value: "IQA",
+        lavel: "Al Asad Air Base - Baghdad"
+    },
+    {
+        value: "TWU",
+        lavel: "Tawau Airport - Kuching"
+    },
+    {
+        value: "TMK",
+        lavel: "Tamky - Ho_Chi_Minh"
+    },
+    {
+        value: "SIF",
+        lavel: "Simara - Kathmandu"
+    },
+    {
+        value: "KIH",
+        lavel: "Kish International Airport - Tehran"
+    },
+    {
+        value: "CHN",
+        lavel: "Jeonju - Seoul"
+    },
+    {
+        value: "IXB",
+        lavel: "Bagdogra Airport - Kolkata"
+    },
+    {
+        value: "PWE",
+        lavel: "Pevek Airport - Anadyr"
+    },
+    {
+        value: "KJI",
+        lavel: "Kanasi Airport - Shanghai"
+    },
+    {
+        value: "UBR",
+        lavel: "Ubrub - Jayapura"
+    },
+    {
+        value: "BDQ",
+        lavel: "Vadodara Airport - Kolkata"
+    },
+    {
+        value: "XMN",
+        lavel: "Xiamen Gaoqi International Airport - Shanghai"
+    },
+    {
+        value: "TPU",
+        lavel: "Tikapur - Kathmandu"
+    },
+    {
+        value: "NBS",
+        lavel: "Changbaishan Airport - Shanghai"
+    },
+    {
+        value: "NEU",
+        lavel: "Sam Neua - Vientiane"
+    },
+    {
+        value: "VDA",
+        lavel: "Ovda Airport - Jerusalem"
+    },
+    {
+        value: "DKS",
+        lavel: "Dikson - Krasnoyarsk"
+    },
+    {
+        value: "LQN",
+        lavel: "Qala Nau - Kabul"
+    },
+    {
+        value: "YOK",
+        lavel: "Yokohama - Tokyo"
+    },
+    {
+        value: "BAG",
+        lavel: "Loakan - Manila"
+    },
+    {
+        value: "WAE",
+        lavel: "Wadi Ad Dawasir Airport - Riyadh"
+    },
+    {
+        value: "HJJ",
+        lavel: "Zhijiang Airport - Shanghai"
+    },
+    {
+        value: "HDM",
+        lavel: "Hamadan Airport - Tehran"
+    },
+    {
+        value: "HOD",
+        lavel: "Hodeidah Airport - Aden"
+    },
+    {
+        value: "ZBY",
+        lavel: "Sayaboury - Vientiane"
+    },
+    {
+        value: "PHA",
+        lavel: "Phan Rang - Ho_Chi_Minh"
+    },
+    {
+        value: "TAE",
+        lavel: "Daegu International Airport - Seoul"
+    },
+    {
+        value: "ALP",
+        lavel: "Nejrab - Damascus"
+    },
+    {
+        value: "ACS",
+        lavel: "Achinsk - Krasnoyarsk"
+    },
+    {
+        value: "NCU",
+        lavel: "Nukus Airport - Samarkand"
+    },
+    {
+        value: "NAK",
+        lavel: "Nakhon Ratchasima - Bangkok"
+    },
+    {
+        value: "SXJ",
+        lavel: "Shanshan - Shanghai"
+    },
+    {
+        value: "ATG",
+        lavel: "Attock - Karachi"
+    },
+    {
+        value: "LLK",
+        lavel: "Lankaran International Airport - Baku"
+    },
+    {
+        value: "MLG",
+        lavel: "Abdul Rachman Saleh Airport - Jakarta"
+    },
+    {
+        value: "HJR",
+        lavel: "Khajuraho Airport - Kolkata"
+    },
+    {
+        value: "ZIX",
+        lavel: "Zhigansk Airport - Yakutsk"
+    },
+    {
+        value: "FAH",
+        lavel: "Farah - Kabul"
+    },
+    {
+        value: "AKD",
+        lavel: "Akola - Kolkata"
+    },
+    {
+        value: "RZR",
+        lavel: "Ramsar - Tehran"
+    },
+    {
+        value: "EBL",
+        lavel: "Erbil International Airport - Baghdad"
+    },
+    {
+        value: "KHG",
+        lavel: "Kashi Airport - Shanghai"
+    },
+    {
+        value: "LRR",
+        lavel: "Lar Airport - Tehran"
+    },
+    {
+        value: "ABT",
+        lavel: "Al-Aqiq Airport - Riyadh"
+    },
+    {
+        value: "NAG",
+        lavel: "Dr. Babasaheb Ambedkar International Airport - Kolkata"
+    },
+    {
+        value: "DIG",
+        lavel: "Diqing Shangri-La Airport - Shanghai"
+    },
+    {
+        value: "MQJ",
+        lavel: "Moma - Srednekolymsk"
+    },
+    {
+        value: "IQN",
+        lavel: "Qingyang Airport - Shanghai"
+    },
+    {
+        value: "KAC",
+        lavel: "Kameshly Airport - Damascus"
+    },
+    {
+        value: "XNG",
+        lavel: "Quang Ngai - Ho_Chi_Minh"
+    },
+    {
+        value: "HMA",
+        lavel: "Khanty-Mansiysk Airport - Yekaterinburg"
+    },
+    {
+        value: "OMM",
+        lavel: "Marmul - Muscat"
+    },
+    {
+        value: "PEK",
+        lavel: "Beijing Capital International Airport - Shanghai"
+    },
+    {
+        value: "KJP",
+        lavel: "Kerama - Tokyo"
+    },
+    {
+        value: "VSO",
+        lavel: "Phuoclong - Ho_Chi_Minh"
+    },
+    {
+        value: "XIN",
+        lavel: "Xingning - Shanghai"
+    },
+    {
+        value: "DHI",
+        lavel: "Dhangarhi - Kathmandu"
+    },
+    {
+        value: "HHS",
+        lavel: "CZ Bus Station - Shanghai"
+    },
+    {
+        value: "SAU",
+        lavel: "Sawu - Makassar"
+    },
+    {
+        value: "PNY",
+        lavel: "Pondicherry - Kolkata"
+    },
+    {
+        value: "LHE",
+        lavel: "Allama Iqbal International Airport - Karachi"
+    },
+    {
+        value: "TQL",
+        lavel: "Tarko-Sale - Yekaterinburg"
+    },
+    {
+        value: "BTU",
+        lavel: "Bintulu Airport - Kuching"
+    },
+    {
+        value: "ORW",
+        lavel: "Ormara - Karachi"
+    },
+    {
+        value: "HBT",
+        lavel: "Hafr Albatin - Colombo"
+    },
+    {
+        value: "KEA",
+        lavel: "Keisah - Jayapura"
+    },
+    {
+        value: "AXT",
+        lavel: "Akita Airport - Tokyo"
+    },
+    {
+        value: "OKQ",
+        lavel: "Okaba - Jayapura"
+    },
+    {
+        value: "UDO",
+        lavel: "Udomxay - Vientiane"
+    },
+    {
+        value: "RTG",
+        lavel: "Ruteng - Makassar"
+    },
+    {
+        value: "YNZ",
+        lavel: "Yancheng Nanyang International Airport - Shanghai"
+    },
+    {
+        value: "PJG",
+        lavel: "Panjgur - Karachi"
+    },
+    {
+        value: "GNJ",
+        lavel: "Ganja Airport - Baku"
+    },
+    {
+        value: "FKQ",
+        lavel: "Fak Fak Airport - Jayapura"
+    },
+    {
+        value: "UPG",
+        lavel: "Sultan Hasanuddin International Airport - Makassar"
+    },
+    {
+        value: "BPU",
+        lavel: "Beppu - Tokyo"
+    },
+    {
+        value: "WGB",
+        lavel: "Bahawalnagar - Karachi"
+    },
+    {
+        value: "NNT",
+        lavel: "Nan Airport - Bangkok"
+    },
+    {
+        value: "JRH",
+        lavel: "Rowriah Airport - Kolkata"
+    },
+    {
+        value: "MXV",
+        lavel: "Moron - Ulaanbaatar"
+    },
+    {
+        value: "KNU",
+        lavel: "Kanpur Airport - Kolkata"
+    },
+    {
+        value: "HRJ",
+        lavel: "Chaurjhari - Kathmandu"
+    },
+    {
+        value: "PFO",
+        lavel: "Paphos International Airport - Nicosia"
+    },
+    {
+        value: "AYN",
+        lavel: "Anyang - Shanghai"
+    },
+    {
+        value: "AEU",
+        lavel: "Abu Musa - Tehran"
+    },
+    {
+        value: "DIW",
+        lavel: "Mawella Lagoon Airport - Colombo"
+    },
+    {
+        value: "BPX",
+        lavel: "Bangda Airport - Shanghai"
+    },
+    {
+        value: "AAY",
+        lavel: "Al Ghaydah - Aden"
+    },
+    {
+        value: "KLH",
+        lavel: "Kolhapur - Kolkata"
+    },
+    {
+        value: "UKB",
+        lavel: "Kobe Airport - Tokyo"
+    },
+    {
+        value: "NSP",
+        lavel: "NAF - Manila"
+    },
+    {
+        value: "ПДВ",
+        lavel: "Podvolochnoe - Irkutsk"
+    },
+    {
+        value: "IIN",
+        lavel: "Nishinoomote - Tokyo"
+    },
+    {
+        value: "AKQ",
+        lavel: "Gunung Batin - Jakarta"
+    },
+    {
+        value: "AJK",
+        lavel: "Araak - Tehran"
+    },
+    {
+        value: "IDR",
+        lavel: "Devi Ahilya Bai Holkar Airport - Kolkata"
+    },
+    {
+        value: "SBF",
+        lavel: "Sardeh Band - Kabul"
+    },
+    {
+        value: "RZH",
+        lavel: "Preobrazheniye - Vladivostok"
+    },
+    {
+        value: "XFN",
+        lavel: "Xiangyang Airport - Shanghai"
+    },
+    {
+        value: "TRK",
+        lavel: "Juwata International Airport - Makassar"
+    },
+    {
+        value: "CHG",
+        lavel: "Chaoyang Airport - Shanghai"
+    },
+    {
+        value: "JKR",
+        lavel: "Janakpur Airport - Kathmandu"
+    },
+    {
+        value: "BEY",
+        lavel: "Beirut-Rafic Hariri International Airport - Beirut"
+    },
+    {
+        value: "RMB",
+        lavel: "Buraimi - Muscat"
+    },
+    {
+        value: "HUZ",
+        lavel: "Huizhou Airport - Shanghai"
+    },
+    {
+        value: "BXD",
+        lavel: "Bade - Jayapura"
+    },
+    {
+        value: "FOC",
+        lavel: "Changle International Airport - Shanghai"
+    },
+    {
+        value: "KDH",
+        lavel: "Kandahar Airport - Kabul"
+    },
+    {
+        value: "CMJ",
+        lavel: "Chi Mei - Taipei"
+    },
+    {
+        value: "HLD",
+        lavel: "Hulunbuir Hailar Airport - Shanghai"
+    },
+    {
+        value: "UBJ",
+        lavel: "Yamaguchi Ube Airport - Tokyo"
+    },
+    {
+        value: "JCJ",
+        lavel: "Chuja Heliport - Seoul"
+    },
+    {
+        value: "AOJ",
+        lavel: "Aomori Airport - Tokyo"
+    },
+    {
+        value: "FEG",
+        lavel: "Fergana Airport - Tashkent"
+    },
+    {
+        value: "NZH",
+        lavel: "Manzhouli Airport - Shanghai"
+    },
+    {
+        value: "THD",
+        lavel: "Bai Thuong Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "LUA",
+        lavel: "Lukla - Kathmandu"
+    },
+    {
+        value: "NRT",
+        lavel: "Narita International Airport - Tokyo"
+    },
+    {
+        value: "CYU",
+        lavel: "Cuyo - Manila"
+    },
+    {
+        value: "HTG",
+        lavel: "Hatanga Airport - Krasnoyarsk"
+    },
+    {
+        value: "KWI",
+        lavel: "Kuwait International Airport - Kuwait"
+    },
+    {
+        value: "BIR",
+        lavel: "Biratnagar Airport - Kathmandu"
+    },
+    {
+        value: "SHE",
+        lavel: "Shenyang Taoxian International Airport - Shanghai"
+    },
+    {
+        value: "IXL",
+        lavel: "Leh Airport - Kolkata"
+    },
+    {
+        value: "HTR",
+        lavel: "Hateruma - Tokyo"
+    },
+    {
+        value: "CJU",
+        lavel: "Jeju International Airport - Seoul"
+    },
+    {
+        value: "BTH",
+        lavel: "Hang Nadim International Airport - Jakarta"
+    },
+    {
+        value: "GRG",
+        lavel: "Gardez - Kabul"
+    },
+    {
+        value: "OBO",
+        lavel: "Tokachi-Obihiro Airport - Tokyo"
+    },
+    {
+        value: "LTG",
+        lavel: "Langtang - Kathmandu"
+    },
+    {
+        value: "UET",
+        lavel: "Quetta Airport - Karachi"
+    },
+    {
+        value: "BEJ",
+        lavel: "Kalimarau Airport - Makassar"
+    },
+    {
+        value: "LCA",
+        lavel: "Larnaca International Airport - Nicosia"
+    },
+    {
+        value: "ONK",
+        lavel: "Olenyok Airport - Yakutsk"
+    },
+    {
+        value: "PUM",
+        lavel: "Pomala - Makassar"
+    },
+    {
+        value: "CIT",
+        lavel: "Shymkent Airport - Almaty"
+    },
+    {
+        value: "PBD",
+        lavel: "Porbandar - Kolkata"
+    },
+    {
+        value: "NIC",
+        lavel: "Nicosia International - Nicosia"
+    },
+    {
+        value: "HAS",
+        lavel: "Hail Airport - Riyadh"
+    },
+    {
+        value: "HDG",
+        lavel: "Handan Airport - Shanghai"
+    },
+    {
+        value: "MWX",
+        lavel: "Muan International Airport - Seoul"
+    },
+    {
+        value: "PZH",
+        lavel: "Zhob - Karachi"
+    },
+    {
+        value: "MDC",
+        lavel: "Sam Ratulangi International Airport - Makassar"
+    },
+    {
+        value: "IIL",
+        lavel: "Ilaam Airport - Tehran"
+    },
+    {
+        value: "IXY",
+        lavel: "Kandla - Kolkata"
+    },
+    {
+        value: "LGP",
+        lavel: "Legaspi Airport - Manila"
+    },
+    {
+        value: "HRA",
+        lavel: "Mansehra - Karachi"
+    },
+    {
+        value: "HEA",
+        lavel: "Herat International Airport - Kabul"
+    },
+    {
+        value: "TXE",
+        lavel: "Rembele Airport - Jakarta"
+    },
+    {
+        value: "LZO",
+        lavel: "Luzhou Lantian Airport - Shanghai"
+    },
+    {
+        value: "GZW",
+        lavel: "Ghazvin - Tehran"
+    },
+    {
+        value: "KOW",
+        lavel: "Ganzhou Airport - Shanghai"
+    },
+    {
+        value: "DPS",
+        lavel: "Ngurah Rai International Airport - Makassar"
+    },
+    {
+        value: "ZKP",
+        lavel: "Zyryanka Airport - Srednekolymsk"
+    },
+    {
+        value: "SWU",
+        lavel: "Suwon - Seoul"
+    },
+    {
+        value: "SIQ",
+        lavel: "Dabo - Jakarta"
+    },
+    {
+        value: "PWQ",
+        lavel: "Pavlodar Airport - Almaty"
+    },
+    {
+        value: "PYJ",
+        lavel: "Polyarnyj Airport - Yakutsk"
+    },
+    {
+        value: "KMJ",
+        lavel: "Kumamoto Airport - Tokyo"
+    },
+    {
+        value: "JNG",
+        lavel: "Jining Airport - Shanghai"
+    },
+    {
+        value: "WNH",
+        lavel: "Wenshan Puzhehei Airport - Shanghai"
+    },
+    {
+        value: "MFK",
+        lavel: "Matsu Beigan Airport - Taipei"
+    },
+    {
+        value: "VTG",
+        lavel: "Vung Tau - Ho_Chi_Minh"
+    },
+    {
+        value: "ZUL",
+        lavel: "Zilfi - Riyadh"
+    },
+    {
+        value: "MZG",
+        lavel: "Magong Airport - Taipei"
+    },
+    {
+        value: "AHI",
+        lavel: "Amahai - Jayapura"
+    },
+    {
+        value: "NMS",
+        lavel: "Namsang - Rangoon"
+    },
+    {
+        value: "DAT",
+        lavel: "Datong Airport - Shanghai"
+    },
+    {
+        value: "MGU",
+        lavel: "Manaung - Rangoon"
+    },
+    {
+        value: "CNN",
+        lavel: "Kannur International Airport - Kolkata"
+    },
+    {
+        value: "KHH",
+        lavel: "Kaohsiung International Airport - Taipei"
+    },
+    {
+        value: "WAF",
+        lavel: "Wana - Karachi"
+    },
+    {
+        value: "KTE",
+        lavel: "Kerteh Airport - Kuala_Lumpur"
+    },
+    {
+        value: "SOQ",
+        lavel: "Sorong Airport - Jayapura"
+    },
+    {
+        value: "TJU",
+        lavel: "Kulyab Airport - Dushanbe"
+    },
+    {
+        value: "IXS",
+        lavel: "Kumbhirgram Airport - Kolkata"
+    },
+    {
+        value: "MSI",
+        lavel: "Masalembo - Jakarta"
+    },
+    {
+        value: "KMX",
+        lavel: "Khamis Mushait - Riyadh"
+    },
+    {
+        value: "ONI",
+        lavel: "Moanamani - Jayapura"
+    },
+    {
+        value: "AQI",
+        lavel: "Qaisumah Airport - Riyadh"
+    },
+    {
+        value: "PZI",
+        lavel: "Pan Zhi Hua Bao An Ying - Shanghai"
+    },
+    {
+        value: "BQA",
+        lavel: "Baler - Manila"
+    },
+    {
+        value: "YIN",
+        lavel: "Yining Airport - Shanghai"
+    },
+    {
+        value: "KUV",
+        lavel: "Gunsan Airport - Seoul"
+    },
+    {
+        value: "SQH",
+        lavel: "Na-San - Ho_Chi_Minh"
+    },
+    {
+        value: "KRW",
+        lavel: "Turkmanbashi Airport - Ashgabat"
+    },
+    {
+        value: "NUX",
+        lavel: "Novy Urengoy Airport - Yekaterinburg"
+    },
+    {
+        value: "BTC",
+        lavel: "Batticaloa - Colombo"
+    },
+    {
+        value: "EVN",
+        lavel: "Zvartnots International Airport - Yerevan"
+    },
+    {
+        value: "FKJ",
+        lavel: "Fukui - Tokyo"
+    },
+    {
+        value: "MMZ",
+        lavel: "Maimana - Kabul"
+    },
+    {
+        value: "LHK",
+        lavel: "Guanghua - Shanghai"
+    },
+    {
+        value: "TKS",
+        lavel: "Tokushima Awaodori Airport - Tokyo"
+    },
+    {
+        value: "CTS",
+        lavel: "New Chitose Airport - Tokyo"
+    },
+    {
+        value: "JHB",
+        lavel: "Senai Airport - Kuala_Lumpur"
+    },
+    {
+        value: "AGJ",
+        lavel: "Aguni - Tokyo"
+    },
+    {
+        value: "DSK",
+        lavel: "Dera Ismail Khan - Karachi"
+    },
+    {
+        value: "ZMY",
+        lavel: "Harbour - Shanghai"
+    },
+    {
+        value: "ATX",
+        lavel: "Atbasar - Almaty"
+    },
+    {
+        value: "SUH",
+        lavel: "Sur - Muscat"
+    },
+    {
+        value: "NGB",
+        lavel: "Ningbo Airport - Shanghai"
+    },
+    {
+        value: "KKZ",
+        lavel: "Koh Kong - Phnom_Penh"
+    },
+    {
+        value: "IWK",
+        lavel: "Iwakuni Kintaikyo Airport - Tokyo"
+    },
+    {
+        value: "FNJ",
+        lavel: "Pyongyang Sunan International Airport - Pyongyang"
+    },
+    {
+        value: "SNW",
+        lavel: "Thandwe Airport - Rangoon"
+    },
+    {
+        value: "JWN",
+        lavel: "Zanjan - Tehran"
+    },
+    {
+        value: "DMR",
+        lavel: "Dhamar - Aden"
+    },
+    {
+        value: "WEF",
+        lavel: "Weifang Airport - Shanghai"
+    },
+    {
+        value: "BBN",
+        lavel: "Bario Airport - Kuching"
+    },
+    {
+        value: "TYD",
+        lavel: "Tynda Airport - Yakutsk"
+    },
+    {
+        value: "KDD",
+        lavel: "Khuzdar - Karachi"
+    },
+    {
+        value: "GDG",
+        lavel: "Magdagachi - Yakutsk"
+    },
+    {
+        value: "CBN",
+        lavel: "Penggung - Jakarta"
+    },
+    {
+        value: "KOX",
+        lavel: "Kokonao - Jayapura"
+    },
+    {
+        value: "AMD",
+        lavel: "Ahmedabad Airport - Kolkata"
+    },
+    {
+        value: "MSJ",
+        lavel: "Misawa - Tokyo"
+    },
+    {
+        value: "ZXZ",
+        lavel: "Jumeirah Beach Bus Station - Dubai"
+    },
+    {
+        value: "KHV",
+        lavel: "Khabarovsk Airport - Vladivostok"
+    },
+    {
+        value: "PDO",
+        lavel: "Pendopo - Jakarta"
+    },
+    {
+        value: "BBM",
+        lavel: "Battambang - Phnom_Penh"
+    },
+    {
+        value: "ICO",
+        lavel: "Sicogon Island - Manila"
+    },
+    {
+        value: "LVP",
+        lavel: "Lavan - Tehran"
+    },
+    {
+        value: "LPT",
+        lavel: "Lampang Airport - Bangkok"
+    },
+    {
+        value: "BXB",
+        lavel: "Babo - Jayapura"
+    },
+    {
+        value: "GKH",
+        lavel: "Gorkha - Kathmandu"
+    },
+    {
+        value: "LCX",
+        lavel: "Liancheng Airport - Shanghai"
+    },
+    {
+        value: "FRU",
+        lavel: "Manas International Airport - Bishkek"
+    },
+    {
+        value: "GRT",
+        lavel: "Gujrat - Karachi"
+    },
+    {
+        value: "DPT",
+        lavel: "Deputatsky - Yakutsk"
+    },
+    {
+        value: "NAY",
+        lavel: "Beijing Nanyuan Airport - Shanghai"
+    },
+    {
+        value: "DOB",
+        lavel: "Dobo Airport - Jayapura"
+    },
+    {
+        value: "XNT",
+        lavel: "Xingtai - Shanghai"
+    },
+    {
+        value: "AFZ",
+        lavel: "Sabzevar - Tehran"
+    },
+    {
+        value: "IGN",
+        lavel: "Maria Cristina - Manila"
+    },
+    {
+        value: "GOI",
+        lavel: "Dabolim Airport - Kolkata"
+    },
+    {
+        value: "TSJ",
+        lavel: "Tsushima Airport - Tokyo"
+    },
+    {
+        value: "RJH",
+        lavel: "Rajshahi Airport - Dhaka"
+    },
+    {
+        value: "KPW",
+        lavel: "Keperveyem Airport - Kamchatka"
+    },
+    {
+        value: "HKG",
+        lavel: "Hong Kong International Airport - Hong_Kong"
+    },
+    {
+        value: "JIL",
+        lavel: "Jilin - Shanghai"
+    },
+    {
+        value: "WEH",
+        lavel: "Weihai International Airport - Shanghai"
+    },
+    {
+        value: "PXU",
+        lavel: "Pleiku Airport - Ho_Chi_Minh"
+    },
+    {
+        value: "OMS",
+        lavel: "Omsk Airport - Omsk"
+    },
+    {
+        value: "ILO",
+        lavel: "Mandurriao Airport - Manila"
+    },
+    {
+        value: "HYN",
+        lavel: "Luqiao Airport - Shanghai"
+    },
+    {
+        value: "YZY",
+        lavel: "Zhangye Ganzhou Airport - Shanghai"
+    },
+    {
+        value: "JAA",
+        lavel: "Jalalabad - Kabul"
+    },
+    {
+        value: "CXB",
+        lavel: "Coxs Bazar Airport - Dhaka"
+    },
+    {
+        value: "JGE",
+        lavel: "Heliport - Seoul"
+    },
+    {
+        value: "BLG",
+        lavel: "Belaga - Kuching"
+    },
+    {
+        value: "TIR",
+        lavel: "Tirupati Airport - Kolkata"
+    },
+    {
+        value: "NTX",
+        lavel: "Natuna Ranai - Jakarta"
+    },
+    {
+        value: "USU",
+        lavel: "Busuanga Airport - Manila"
+    },
+    {
+        value: "ZEG",
+        lavel: "Senggo - Jayapura"
+    },
+    {
+        value: "CTU",
+        lavel: "Chengdu Shuangliu International Airport - Shanghai"
+    },
+    {
+        value: "MQF",
+        lavel: "Magnitogorsk Airport - Yekaterinburg"
+    },
+    {
+        value: "IFN",
+        lavel: "Isfahan International Airport - Tehran"
+    }
+]
