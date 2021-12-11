@@ -3,6 +3,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 import requests
 import json
+from operator import itemgetter
 from .weather_data import data_1, data_2, data_3, data_4
 
 
@@ -87,3 +88,53 @@ def weather_api_marge_data(request):
     marge_weather_data_list = [data_1, data_2, data_3, data_4]
     lst_two_weather_data = marge_weather_data_list[-2:]
     return Response(lst_two_weather_data)
+
+
+# Flight Data [rapidapi.com]
+@api_view(['POST'])
+def flight_search2(request):
+    context = {}
+    url = "https://travelpayouts-travelpayouts-flight-data-v1.p.rapidapi.com/v1/prices/cheap"
+
+    if request.data:
+        origin = request.data['origin']
+        depart_date = request.data['depart_date']
+        return_date = request.data['return_date']
+        destination = request.data['destination']
+        sort = request.data['sort']
+
+        querystring = {"origin": origin, "page": "None", "currency": "USD", "depart_date": depart_date,
+                       "return_date": return_date, "destination": destination}
+
+        # {"origin": "DAC", "page": "None", "currency": "USD", "depart_date": "2021-12-12", "return_date": "",
+        #  "destination": "DXB", "sort": ""}
+
+        # querystring = {"origin": "DAC", "page": "None", "currency": "USD", "depart_date": "2021-12-12",
+        #                "return_date": "", "destination": "DXB"}
+
+        headers = {
+            'x-access-token': "2e082d5c4155b4547875293928cb300e",
+            'x-rapidapi-host': "travelpayouts-travelpayouts-flight-data-v1.p.rapidapi.com",
+            'x-rapidapi-key': "7c1e647c21msh993266fd5386d3dp14cd93jsn5bf2b2a1ef96"
+        }
+
+        response = requests.request("GET", url, headers=headers, params=querystring)
+        if response.json()['data'] != {}:
+            flight_dic = response.json()['data'][destination]
+            flight_list = []
+            for k, v in flight_dic.items():
+                flight_list.append(v)
+            if sort == 'low':
+                flight_list = sorted(flight_list, key=itemgetter('price'))
+            elif sort == 'high':
+                flight_list = sorted(flight_list, key=itemgetter('price'), reverse=True)
+            context = {"success": True, "data": flight_list}
+            return Response(context)
+        else:
+            context = {"success": True, "data": []}
+            return Response(context)
+
+
+    else:
+        context = {"success": True, "data": []}
+        return Response(context)

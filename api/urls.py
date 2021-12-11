@@ -5,6 +5,7 @@ app_name = 'api'
 
 urlpatterns = [
     path('flight/', flight_search, name='flight_search'),
+    path('flight2/', flight_search2, name='flight_search2'),
     path('weather/', weather_search, name='weather_search'),
     path('weather_api_marge_data/', weather_api_marge_data, name='weather_api_marge_data'),
     path('airport_search_by_free_text/<city>/', airport_search_by_free_text, name='airport_search_by_free_text'),
